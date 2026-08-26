@@ -1,0 +1,281 @@
+{
+  "session": {
+    "id": "ses_mobile_mt9iptm6_0ujh",
+    "title": "Pensei q a okx usava wallet para o cartã",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787713931310
+  },
+  "messages": [
+    {
+      "id": "msg_0_ses_mobi",
+      "time_created": 1787713931310,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_1_ses_mobi",
+      "time_created": 1787713931311,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_2_ses_mobi",
+      "time_created": 1787713931312,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_3_ses_mobi",
+      "time_created": 1787713931313,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_4_ses_mobi",
+      "time_created": 1787713931314,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Teste"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_5_ses_mobi",
+      "time_created": 1787713931315,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_6_ses_mobi",
+      "time_created": 1787713931316,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_7_ses_mobi",
+      "time_created": 1787713931317,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_8_ses_mobi",
+      "time_created": 1787713931318,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Então a bitget usa autocustodial?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_9_ses_mobi",
+      "time_created": 1787713931319,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_10_ses_mobi",
+      "time_created": 1787713931320,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pensei q a okx usava wallet para o cartão"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_11_ses_mobi",
+      "time_created": 1787713931321,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_0_ses_mobi",
+      "message_id": "msg_0_ses_mobi",
+      "time_created": 1787713931310,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_1_ses_mobi",
+      "message_id": "msg_1_ses_mobi",
+      "time_created": 1787713931311,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_2_ses_mobi",
+      "message_id": "msg_2_ses_mobi",
+      "time_created": 1787713931312,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_3_ses_mobi",
+      "message_id": "msg_3_ses_mobi",
+      "time_created": 1787713931313,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+      }
+    },
+    {
+      "id": "part_4_ses_mobi",
+      "message_id": "msg_4_ses_mobi",
+      "time_created": 1787713931314,
+      "data": {
+        "type": "text",
+        "text": "Teste"
+      }
+    },
+    {
+      "id": "part_5_ses_mobi",
+      "message_id": "msg_5_ses_mobi",
+      "time_created": 1787713931315,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_6_ses_mobi",
+      "message_id": "msg_6_ses_mobi",
+      "time_created": 1787713931316,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_7_ses_mobi",
+      "message_id": "msg_7_ses_mobi",
+      "time_created": 1787713931317,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_8_ses_mobi",
+      "message_id": "msg_8_ses_mobi",
+      "time_created": 1787713931318,
+      "data": {
+        "type": "text",
+        "text": "Então a bitget usa autocustodial?"
+      }
+    },
+    {
+      "id": "part_9_ses_mobi",
+      "message_id": "msg_9_ses_mobi",
+      "time_created": 1787713931319,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_10_ses_mobi",
+      "message_id": "msg_10_ses_mobi",
+      "time_created": 1787713931320,
+      "data": {
+        "type": "text",
+        "text": "Pensei q a okx usava wallet para o cartão"
+      }
+    },
+    {
+      "id": "part_11_ses_mobi",
+      "message_id": "msg_11_ses_mobi",
+      "time_created": 1787713931321,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-26T03:12:11.310Z",
+  "counts": {
+    "messages": 12,
+    "parts": 12
+  }
+}
