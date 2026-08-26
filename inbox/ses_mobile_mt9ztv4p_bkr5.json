@@ -1,0 +1,83 @@
+{
+  "session": {
+    "id": "ses_mobile_mt9ztv4p_bkr5",
+    "title": "E recomendado instalar um sistema operac",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787742673369
+  },
+  "messages": [
+    {
+      "id": "msg_0_ses_mobi",
+      "time_created": 1787742673369,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_1_ses_mobi",
+      "time_created": 1787742673370,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "E recomendado instalar um sistema operacional em um hd externo de entrada USB?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_2_ses_mobi",
+      "time_created": 1787742673371,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta curta**\nNão é recomendado para uso diário principal, mas funciona bem para uso secundário.\n\nHD externo de entrada via USB é lento e instável para rodar sistema todo dia.\n\n**Quando vale a pena**\n• Testar Linux sem mexer no HD interno\n• Ter um sistema portátil para usar em qualquer PC\n• Fazer manutenção e recuperação de arquivos\n• Rodar um segundo sistema sem fazer dual boot\n\n**Principais problemas**\n• Lentidão: USB limita muito, principalmente se for USB 2.0 ou HD de 5400 RPM\n• Risco de corrupção: se o cabo soltar durante o uso, pode corromper o sistema\n• Boot chato: precisa configurar BIOS/UEFI toda vez e nem todo PC dá boot por USB\n• Vida útil menor: HD externo não foi feito para leitura/gravação constante de sistema\n• Travamentos em tarefas pesadas como jogos ou edição\n\n**Se for fazer, faça certo**\nUse no mínimo USB 3.0 e de preferência um SSD externo, não HD mecânico barato. Para Windows use a função Windows To Go. Para Linux, qualquer distro leve como Mint ou Ubuntu roda melhor.\n\nPara uso principal, instale no SSD/HD interno. Para uso portátil e testes, o HD externo resolve bem.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_0_ses_mobi",
+      "message_id": "msg_0_ses_mobi",
+      "time_created": 1787742673369,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_1_ses_mobi",
+      "message_id": "msg_1_ses_mobi",
+      "time_created": 1787742673370,
+      "data": {
+        "type": "text",
+        "text": "E recomendado instalar um sistema operacional em um hd externo de entrada USB?"
+      }
+    },
+    {
+      "id": "part_2_ses_mobi",
+      "message_id": "msg_2_ses_mobi",
+      "time_created": 1787742673371,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta curta**\nNão é recomendado para uso diário principal, mas funciona bem para uso secundário.\n\nHD externo de entrada via USB é lento e instável para rodar sistema todo dia.\n\n**Quando vale a pena**\n• Testar Linux sem mexer no HD interno\n• Ter um sistema portátil para usar em qualquer PC\n• Fazer manutenção e recuperação de arquivos\n• Rodar um segundo sistema sem fazer dual boot\n\n**Principais problemas**\n• Lentidão: USB limita muito, principalmente se for USB 2.0 ou HD de 5400 RPM\n• Risco de corrupção: se o cabo soltar durante o uso, pode corromper o sistema\n• Boot chato: precisa configurar BIOS/UEFI toda vez e nem todo PC dá boot por USB\n• Vida útil menor: HD externo não foi feito para leitura/gravação constante de sistema\n• Travamentos em tarefas pesadas como jogos ou edição\n\n**Se for fazer, faça certo**\nUse no mínimo USB 3.0 e de preferência um SSD externo, não HD mecânico barato. Para Windows use a função Windows To Go. Para Linux, qualquer distro leve como Mint ou Ubuntu roda melhor.\n\nPara uso principal, instale no SSD/HD interno. Para uso portátil e testes, o HD externo resolve bem.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-26T11:11:13.369Z",
+  "counts": {
+    "messages": 3,
+    "parts": 3
+  }
+}
