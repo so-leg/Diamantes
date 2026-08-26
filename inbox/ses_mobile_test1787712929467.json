@@ -1,0 +1,41 @@
+{
+  "session": {
+    "id": "ses_mobile_test1787712929467",
+    "title": "Teste GitHub persistente",
+    "slug": "mobile_t",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787712929467
+  },
+  "messages": [
+    {
+      "id": "msg1",
+      "time_created": 1787712929467,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "teste github"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part1",
+      "message_id": "msg1",
+      "session_id": "ses_mobile_test1787712929467",
+      "time_created": 1787712929467,
+      "data": {
+        "type": "text",
+        "text": "teste github"
+      }
+    }
+  ],
+  "exported_at": "2026-08-26T02:55:29.467Z",
+  "counts": {
+    "messages": 1,
+    "parts": 1
+  }
+}
