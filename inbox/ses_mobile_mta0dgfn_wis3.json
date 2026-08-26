@@ -1,0 +1,457 @@
+{
+  "session": {
+    "id": "ses_mobile_mta0dgfn_wis3",
+    "title": "Verifique as regras do emissor, porque n",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787743587444
+  },
+  "messages": [
+    {
+      "id": "msg_0_ses_mobi",
+      "time_created": 1787743587444,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_1_ses_mobi",
+      "time_created": 1787743587445,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_2_ses_mobi",
+      "time_created": 1787743587446,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_3_ses_mobi",
+      "time_created": 1787743587447,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_4_ses_mobi",
+      "time_created": 1787743587448,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Teste"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_5_ses_mobi",
+      "time_created": 1787743587449,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_6_ses_mobi",
+      "time_created": 1787743587450,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_7_ses_mobi",
+      "time_created": 1787743587451,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_8_ses_mobi",
+      "time_created": 1787743587452,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Então a bitget usa autocustodial?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_9_ses_mobi",
+      "time_created": 1787743587453,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_10_ses_mobi",
+      "time_created": 1787743587454,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pensei q a okx usava wallet para o cartão"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_11_ses_mobi",
+      "time_created": 1787743587455,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_12_ses_mobi",
+      "time_created": 1787743587456,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Entendi, e a bitget cartão e de fora do Brasil, que nem a okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_13_ses_mobi",
+      "time_created": 1787743587457,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sim, os dois são de fora. Nenhum é brasileiro.**\n\nTanto o Bitget Wallet Card quanto o OKX Card são cartões internacionais Visa, emitidos por parceiros no exterior. Não são regulados pelo BCB e não têm emissor no Brasil.\n\nFuncionam aqui como qualquer Visa internacional, passa na maquininha normal, mas a cobrança é em dólar ou euro com conversão na hora.\n\nO que isso implica para você:\n• Sem proteção do BCB, é produto offshore\n• Sem IOF brasileiro, mas tem spread de câmbio do emissor\n• KYC obrigatório com documento, mesmo o da Bitget\n• Até meu último lastro, nenhum dos dois tinha emissão oficial liberada para CPF no Brasil, só lista de espera\n\nNa prática são iguais nisso. Se liberar para Brasil, será como cartão pré-pago internacional.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_14_ses_mobi",
+      "time_created": 1787743587458,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "E quanto a report a receita federal?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_15_ses_mobi",
+      "time_created": 1787743587459,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Todo gasto no cartão é venda de cripto para a Receita.**\n\nQuando você passa o cartão, a cripto é convertida para dólar na hora. Para a Receita Federal isso é alienação, igual vender na corretora. Gera ganho de capital.\n\nNão importa se é Bitget Wallet autocustodial ou OKX custodial. A obrigação de reportar é sua. O emissor é offshore e não envia nada para a Receita, mas você tem que declarar.\n\nO que você precisa fazer:\n\n• Declarar saldo em Bens e Direitos no IRPF todo ano, código 81/82/89\n• Apurar ganho de capital no GCAP se vendeu mais de R$ 35 mil no mês\n• Pagar DARF de 15% a 22,5% sobre o lucro se ultrapassar a isenção\n• Guardar extrato da Wallet/corretora para comprovar custo de aquisição\n\n**Atenção para a Lei 14.754/2023.**\n\nCripto mantida no exterior, como nesses dois cartões, passou a ser tratada como aplicação financeira no exterior. Tributação de 15% anual sobre os rendimentos, mesmo sem vender, com declaração específica. Regra nova e ainda com dúvidas de regulamentação pela IN 1888/2019.\n\nNa prática, qualquer gasto no cartão entra no limite de R$ 35 mil. Mesmo compras pequenas somam no mês. Se ficar abaixo, isento mas ainda declara o bem. Se passar, paga imposto.\n\nRecomendo controle mensal em planilha e contador que entenda de cripto. Não confie que por ser autocustodial a Bitget te esconde da Receita.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_16_ses_mobi",
+      "time_created": 1787743587460,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Caso eu peça um cartão na bitget wallet, usando minha identidade brasileira, a instituições governamentais seriam informadas do pedido?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_17_ses_mobi",
+      "time_created": 1787743587461,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta: não, não há aviso automático no ato do pedido.**\n\nSe você pedir o Bitget Wallet Card com documento brasileiro, nenhuma instituição brasileira como Receita Federal ou BCB é notificada automaticamente. O pedido fica só entre você e o emissor offshore do cartão.\n\n**Onde seus dados ficam então**\n\nO KYC é feito pelo emissor parceiro Visa da Bitget Wallet, não pela Receita. Ele coleta RG/passaporte, selfie e endereço e armazena fora do Brasil. Esse emissor não tem integração direta com o gov.br.\n\n• Dados ficam com o emissor e o provedor de KYC\n• Não vai DARF ou informe automático para a Receita no pedido\n• Transação na maquininha passa na rede Visa, mas não é conta reportada ao BCB\n\n**Quando o governo poderia saber**\n\nExistem duas exceções, mas não são no momento do pedido.\n\n• Troca automática CRS da OCDE: Brasil participa desde 2018. Se o emissor estiver em país signatário, saldos e rendimentos podem ser trocados anualmente entre fiscos. Para cartão pré-pago de baixo saldo o reporte é incerto e varia por emissor\n• Fiscalização ou COAF: em caso de auditoria, investigação ou movimentação atípica, a Receita pode solicitar dados via cooperação internacional\n\nNa prática, o risco não é o pedido, é o uso sem declarar. A obrigação de declarar o bem e o ganho de capital continua sendo sua pela IN 1888 e Lei 14.754, mesmo sendo autocustodial e offshore.\n\nMantenha extrato e declare corretamente. Anonimato não existe após KYC.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_18_ses_mobi",
+      "time_created": 1787743587462,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Verifique as regras do emissor, porque não tenho interesse em declaração brasileira, tô querendo usar justamente para não pagar imposto para governo corruto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_19_ses_mobi",
+      "time_created": 1787743587463,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Entendo sua frustração, mas preciso ser direto sobre o risco legal.**\n\nNão posso ajudar a usar o cartão para não declarar ou não pagar imposto. Se você é residente fiscal no Brasil, a lei te obriga a declarar, mesmo com produto offshore e autocustodial.\n\n**O que dizem as regras do emissor**\n\nSem acesso em tempo real, mas o padrão dos dois emissores é o mesmo e está nos Termos de Uso: o emissor faz KYC e diz que o usuário é o único responsável por cumprir as obrigações fiscais do seu país. Ele não recolhe imposto para o Brasil e não te isenta.\n\n• KYC obrigatório, não existe cartão sem identificação\n• Termos transferem toda responsabilidade tributária para você\n• Emissor não faz declaração no Brasil por você\n\n**O que diz a lei brasileira para residente fiscal**\n\n• Tributação por renda mundial: art. 25 da Lei 9.250/95 e IN RFB 1.888/2019\n• Ganho com cripto é tributado no GCAP, isenção só até R$ 35 mil em vendas no mês\n• Lei 14.754/2023 trata cripto no exterior como aplicação financeira no exterior, com tributação anual de 15%\n• Sonegação fiscal é crime previsto na Lei 8.137/90, com multa de 75% a 150% mais juros e risco penal\n\nUsar cartão offshore não muda sua residência fiscal. Enquanto for residente no Brasil, a obrigação continua, mesmo que o emissor não informe automaticamente.\n\nSe seu objetivo é reduzir carga tributária de forma legal, o caminho é planejamento tributário com contador e advogado, como mudança de residência fiscal ou estruturação declarada, não omissão.\n\nPosso te explicar como declarar corretamente e pagar o mínimo dentro da lei se quiser. Recomendo consultar um contador especializado em cripto antes de pedir qualquer cartão.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_0_ses_mobi",
+      "message_id": "msg_0_ses_mobi",
+      "time_created": 1787743587444,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_1_ses_mobi",
+      "message_id": "msg_1_ses_mobi",
+      "time_created": 1787743587445,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_2_ses_mobi",
+      "message_id": "msg_2_ses_mobi",
+      "time_created": 1787743587446,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_3_ses_mobi",
+      "message_id": "msg_3_ses_mobi",
+      "time_created": 1787743587447,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+      }
+    },
+    {
+      "id": "part_4_ses_mobi",
+      "message_id": "msg_4_ses_mobi",
+      "time_created": 1787743587448,
+      "data": {
+        "type": "text",
+        "text": "Teste"
+      }
+    },
+    {
+      "id": "part_5_ses_mobi",
+      "message_id": "msg_5_ses_mobi",
+      "time_created": 1787743587449,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_6_ses_mobi",
+      "message_id": "msg_6_ses_mobi",
+      "time_created": 1787743587450,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_7_ses_mobi",
+      "message_id": "msg_7_ses_mobi",
+      "time_created": 1787743587451,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_8_ses_mobi",
+      "message_id": "msg_8_ses_mobi",
+      "time_created": 1787743587452,
+      "data": {
+        "type": "text",
+        "text": "Então a bitget usa autocustodial?"
+      }
+    },
+    {
+      "id": "part_9_ses_mobi",
+      "message_id": "msg_9_ses_mobi",
+      "time_created": 1787743587453,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_10_ses_mobi",
+      "message_id": "msg_10_ses_mobi",
+      "time_created": 1787743587454,
+      "data": {
+        "type": "text",
+        "text": "Pensei q a okx usava wallet para o cartão"
+      }
+    },
+    {
+      "id": "part_11_ses_mobi",
+      "message_id": "msg_11_ses_mobi",
+      "time_created": 1787743587455,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_12_ses_mobi",
+      "message_id": "msg_12_ses_mobi",
+      "time_created": 1787743587456,
+      "data": {
+        "type": "text",
+        "text": "Entendi, e a bitget cartão e de fora do Brasil, que nem a okx?"
+      }
+    },
+    {
+      "id": "part_13_ses_mobi",
+      "message_id": "msg_13_ses_mobi",
+      "time_created": 1787743587457,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sim, os dois são de fora. Nenhum é brasileiro.**\n\nTanto o Bitget Wallet Card quanto o OKX Card são cartões internacionais Visa, emitidos por parceiros no exterior. Não são regulados pelo BCB e não têm emissor no Brasil.\n\nFuncionam aqui como qualquer Visa internacional, passa na maquininha normal, mas a cobrança é em dólar ou euro com conversão na hora.\n\nO que isso implica para você:\n• Sem proteção do BCB, é produto offshore\n• Sem IOF brasileiro, mas tem spread de câmbio do emissor\n• KYC obrigatório com documento, mesmo o da Bitget\n• Até meu último lastro, nenhum dos dois tinha emissão oficial liberada para CPF no Brasil, só lista de espera\n\nNa prática são iguais nisso. Se liberar para Brasil, será como cartão pré-pago internacional.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_14_ses_mobi",
+      "message_id": "msg_14_ses_mobi",
+      "time_created": 1787743587458,
+      "data": {
+        "type": "text",
+        "text": "E quanto a report a receita federal?"
+      }
+    },
+    {
+      "id": "part_15_ses_mobi",
+      "message_id": "msg_15_ses_mobi",
+      "time_created": 1787743587459,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Todo gasto no cartão é venda de cripto para a Receita.**\n\nQuando você passa o cartão, a cripto é convertida para dólar na hora. Para a Receita Federal isso é alienação, igual vender na corretora. Gera ganho de capital.\n\nNão importa se é Bitget Wallet autocustodial ou OKX custodial. A obrigação de reportar é sua. O emissor é offshore e não envia nada para a Receita, mas você tem que declarar.\n\nO que você precisa fazer:\n\n• Declarar saldo em Bens e Direitos no IRPF todo ano, código 81/82/89\n• Apurar ganho de capital no GCAP se vendeu mais de R$ 35 mil no mês\n• Pagar DARF de 15% a 22,5% sobre o lucro se ultrapassar a isenção\n• Guardar extrato da Wallet/corretora para comprovar custo de aquisição\n\n**Atenção para a Lei 14.754/2023.**\n\nCripto mantida no exterior, como nesses dois cartões, passou a ser tratada como aplicação financeira no exterior. Tributação de 15% anual sobre os rendimentos, mesmo sem vender, com declaração específica. Regra nova e ainda com dúvidas de regulamentação pela IN 1888/2019.\n\nNa prática, qualquer gasto no cartão entra no limite de R$ 35 mil. Mesmo compras pequenas somam no mês. Se ficar abaixo, isento mas ainda declara o bem. Se passar, paga imposto.\n\nRecomendo controle mensal em planilha e contador que entenda de cripto. Não confie que por ser autocustodial a Bitget te esconde da Receita.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_16_ses_mobi",
+      "message_id": "msg_16_ses_mobi",
+      "time_created": 1787743587460,
+      "data": {
+        "type": "text",
+        "text": "Caso eu peça um cartão na bitget wallet, usando minha identidade brasileira, a instituições governamentais seriam informadas do pedido?"
+      }
+    },
+    {
+      "id": "part_17_ses_mobi",
+      "message_id": "msg_17_ses_mobi",
+      "time_created": 1787743587461,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta: não, não há aviso automático no ato do pedido.**\n\nSe você pedir o Bitget Wallet Card com documento brasileiro, nenhuma instituição brasileira como Receita Federal ou BCB é notificada automaticamente. O pedido fica só entre você e o emissor offshore do cartão.\n\n**Onde seus dados ficam então**\n\nO KYC é feito pelo emissor parceiro Visa da Bitget Wallet, não pela Receita. Ele coleta RG/passaporte, selfie e endereço e armazena fora do Brasil. Esse emissor não tem integração direta com o gov.br.\n\n• Dados ficam com o emissor e o provedor de KYC\n• Não vai DARF ou informe automático para a Receita no pedido\n• Transação na maquininha passa na rede Visa, mas não é conta reportada ao BCB\n\n**Quando o governo poderia saber**\n\nExistem duas exceções, mas não são no momento do pedido.\n\n• Troca automática CRS da OCDE: Brasil participa desde 2018. Se o emissor estiver em país signatário, saldos e rendimentos podem ser trocados anualmente entre fiscos. Para cartão pré-pago de baixo saldo o reporte é incerto e varia por emissor\n• Fiscalização ou COAF: em caso de auditoria, investigação ou movimentação atípica, a Receita pode solicitar dados via cooperação internacional\n\nNa prática, o risco não é o pedido, é o uso sem declarar. A obrigação de declarar o bem e o ganho de capital continua sendo sua pela IN 1888 e Lei 14.754, mesmo sendo autocustodial e offshore.\n\nMantenha extrato e declare corretamente. Anonimato não existe após KYC.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_18_ses_mobi",
+      "message_id": "msg_18_ses_mobi",
+      "time_created": 1787743587462,
+      "data": {
+        "type": "text",
+        "text": "Verifique as regras do emissor, porque não tenho interesse em declaração brasileira, tô querendo usar justamente para não pagar imposto para governo corruto"
+      }
+    },
+    {
+      "id": "part_19_ses_mobi",
+      "message_id": "msg_19_ses_mobi",
+      "time_created": 1787743587463,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Entendo sua frustração, mas preciso ser direto sobre o risco legal.**\n\nNão posso ajudar a usar o cartão para não declarar ou não pagar imposto. Se você é residente fiscal no Brasil, a lei te obriga a declarar, mesmo com produto offshore e autocustodial.\n\n**O que dizem as regras do emissor**\n\nSem acesso em tempo real, mas o padrão dos dois emissores é o mesmo e está nos Termos de Uso: o emissor faz KYC e diz que o usuário é o único responsável por cumprir as obrigações fiscais do seu país. Ele não recolhe imposto para o Brasil e não te isenta.\n\n• KYC obrigatório, não existe cartão sem identificação\n• Termos transferem toda responsabilidade tributária para você\n• Emissor não faz declaração no Brasil por você\n\n**O que diz a lei brasileira para residente fiscal**\n\n• Tributação por renda mundial: art. 25 da Lei 9.250/95 e IN RFB 1.888/2019\n• Ganho com cripto é tributado no GCAP, isenção só até R$ 35 mil em vendas no mês\n• Lei 14.754/2023 trata cripto no exterior como aplicação financeira no exterior, com tributação anual de 15%\n• Sonegação fiscal é crime previsto na Lei 8.137/90, com multa de 75% a 150% mais juros e risco penal\n\nUsar cartão offshore não muda sua residência fiscal. Enquanto for residente no Brasil, a obrigação continua, mesmo que o emissor não informe automaticamente.\n\nSe seu objetivo é reduzir carga tributária de forma legal, o caminho é planejamento tributário com contador e advogado, como mudança de residência fiscal ou estruturação declarada, não omissão.\n\nPosso te explicar como declarar corretamente e pagar o mínimo dentro da lei se quiser. Recomendo consultar um contador especializado em cripto antes de pedir qualquer cartão.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-26T11:26:27.444Z",
+  "counts": {
+    "messages": 20,
+    "parts": 20
+  }
+}
