@@ -1,0 +1,897 @@
+{
+  "session": {
+    "id": "ses_mobile_mta2s3dh_y9ws",
+    "title": "E quais são as chances de pedirem, extra",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787747629589
+  },
+  "messages": [
+    {
+      "id": "msg_0_ses_mobi",
+      "time_created": 1787747629589,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_1_ses_mobi",
+      "time_created": 1787747629590,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_2_ses_mobi",
+      "time_created": 1787747629591,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_3_ses_mobi",
+      "time_created": 1787747629592,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_4_ses_mobi",
+      "time_created": 1787747629593,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Teste"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_5_ses_mobi",
+      "time_created": 1787747629594,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_6_ses_mobi",
+      "time_created": 1787747629595,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "O cartão da bitget wallet e igual ao da okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_7_ses_mobi",
+      "time_created": 1787747629596,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_8_ses_mobi",
+      "time_created": 1787747629597,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Então a bitget usa autocustodial?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_9_ses_mobi",
+      "time_created": 1787747629598,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_10_ses_mobi",
+      "time_created": 1787747629599,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pensei q a okx usava wallet para o cartão"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_11_ses_mobi",
+      "time_created": 1787747629600,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_12_ses_mobi",
+      "time_created": 1787747629601,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Entendi, e a bitget cartão e de fora do Brasil, que nem a okx?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_13_ses_mobi",
+      "time_created": 1787747629602,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sim, os dois são de fora. Nenhum é brasileiro.**\n\nTanto o Bitget Wallet Card quanto o OKX Card são cartões internacionais Visa, emitidos por parceiros no exterior. Não são regulados pelo BCB e não têm emissor no Brasil.\n\nFuncionam aqui como qualquer Visa internacional, passa na maquininha normal, mas a cobrança é em dólar ou euro com conversão na hora.\n\nO que isso implica para você:\n• Sem proteção do BCB, é produto offshore\n• Sem IOF brasileiro, mas tem spread de câmbio do emissor\n• KYC obrigatório com documento, mesmo o da Bitget\n• Até meu último lastro, nenhum dos dois tinha emissão oficial liberada para CPF no Brasil, só lista de espera\n\nNa prática são iguais nisso. Se liberar para Brasil, será como cartão pré-pago internacional.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_14_ses_mobi",
+      "time_created": 1787747629603,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "E quanto a report a receita federal?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_15_ses_mobi",
+      "time_created": 1787747629604,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Todo gasto no cartão é venda de cripto para a Receita.**\n\nQuando você passa o cartão, a cripto é convertida para dólar na hora. Para a Receita Federal isso é alienação, igual vender na corretora. Gera ganho de capital.\n\nNão importa se é Bitget Wallet autocustodial ou OKX custodial. A obrigação de reportar é sua. O emissor é offshore e não envia nada para a Receita, mas você tem que declarar.\n\nO que você precisa fazer:\n\n• Declarar saldo em Bens e Direitos no IRPF todo ano, código 81/82/89\n• Apurar ganho de capital no GCAP se vendeu mais de R$ 35 mil no mês\n• Pagar DARF de 15% a 22,5% sobre o lucro se ultrapassar a isenção\n• Guardar extrato da Wallet/corretora para comprovar custo de aquisição\n\n**Atenção para a Lei 14.754/2023.**\n\nCripto mantida no exterior, como nesses dois cartões, passou a ser tratada como aplicação financeira no exterior. Tributação de 15% anual sobre os rendimentos, mesmo sem vender, com declaração específica. Regra nova e ainda com dúvidas de regulamentação pela IN 1888/2019.\n\nNa prática, qualquer gasto no cartão entra no limite de R$ 35 mil. Mesmo compras pequenas somam no mês. Se ficar abaixo, isento mas ainda declara o bem. Se passar, paga imposto.\n\nRecomendo controle mensal em planilha e contador que entenda de cripto. Não confie que por ser autocustodial a Bitget te esconde da Receita.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_16_ses_mobi",
+      "time_created": 1787747629605,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Caso eu peça um cartão na bitget wallet, usando minha identidade brasileira, a instituições governamentais seriam informadas do pedido?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_17_ses_mobi",
+      "time_created": 1787747629606,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta: não, não há aviso automático no ato do pedido.**\n\nSe você pedir o Bitget Wallet Card com documento brasileiro, nenhuma instituição brasileira como Receita Federal ou BCB é notificada automaticamente. O pedido fica só entre você e o emissor offshore do cartão.\n\n**Onde seus dados ficam então**\n\nO KYC é feito pelo emissor parceiro Visa da Bitget Wallet, não pela Receita. Ele coleta RG/passaporte, selfie e endereço e armazena fora do Brasil. Esse emissor não tem integração direta com o gov.br.\n\n• Dados ficam com o emissor e o provedor de KYC\n• Não vai DARF ou informe automático para a Receita no pedido\n• Transação na maquininha passa na rede Visa, mas não é conta reportada ao BCB\n\n**Quando o governo poderia saber**\n\nExistem duas exceções, mas não são no momento do pedido.\n\n• Troca automática CRS da OCDE: Brasil participa desde 2018. Se o emissor estiver em país signatário, saldos e rendimentos podem ser trocados anualmente entre fiscos. Para cartão pré-pago de baixo saldo o reporte é incerto e varia por emissor\n• Fiscalização ou COAF: em caso de auditoria, investigação ou movimentação atípica, a Receita pode solicitar dados via cooperação internacional\n\nNa prática, o risco não é o pedido, é o uso sem declarar. A obrigação de declarar o bem e o ganho de capital continua sendo sua pela IN 1888 e Lei 14.754, mesmo sendo autocustodial e offshore.\n\nMantenha extrato e declare corretamente. Anonimato não existe após KYC.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_18_ses_mobi",
+      "time_created": 1787747629607,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Verifique as regras do emissor, porque não tenho interesse em declaração brasileira, tô querendo usar justamente para não pagar imposto para governo corruto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_19_ses_mobi",
+      "time_created": 1787747629608,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Entendo sua frustração, mas preciso ser direto sobre o risco legal.**\n\nNão posso ajudar a usar o cartão para não declarar ou não pagar imposto. Se você é residente fiscal no Brasil, a lei te obriga a declarar, mesmo com produto offshore e autocustodial.\n\n**O que dizem as regras do emissor**\n\nSem acesso em tempo real, mas o padrão dos dois emissores é o mesmo e está nos Termos de Uso: o emissor faz KYC e diz que o usuário é o único responsável por cumprir as obrigações fiscais do seu país. Ele não recolhe imposto para o Brasil e não te isenta.\n\n• KYC obrigatório, não existe cartão sem identificação\n• Termos transferem toda responsabilidade tributária para você\n• Emissor não faz declaração no Brasil por você\n\n**O que diz a lei brasileira para residente fiscal**\n\n• Tributação por renda mundial: art. 25 da Lei 9.250/95 e IN RFB 1.888/2019\n• Ganho com cripto é tributado no GCAP, isenção só até R$ 35 mil em vendas no mês\n• Lei 14.754/2023 trata cripto no exterior como aplicação financeira no exterior, com tributação anual de 15%\n• Sonegação fiscal é crime previsto na Lei 8.137/90, com multa de 75% a 150% mais juros e risco penal\n\nUsar cartão offshore não muda sua residência fiscal. Enquanto for residente no Brasil, a obrigação continua, mesmo que o emissor não informe automaticamente.\n\nSe seu objetivo é reduzir carga tributária de forma legal, o caminho é planejamento tributário com contador e advogado, como mudança de residência fiscal ou estruturação declarada, não omissão.\n\nPosso te explicar como declarar corretamente e pagar o mínimo dentro da lei se quiser. Recomendo consultar um contador especializado em cripto antes de pedir qualquer cartão.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_20_ses_mobi",
+      "time_created": 1787747629609,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Não quero pagar nada de imposto, então se for só pra ter um cartão, sem essas obrigações ridícula pra cripto, e melhor ter um nacional mesmo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_21_ses_mobi",
+      "time_created": 1787747629610,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Cartão nacional não resolve seu problema tributário.**\n\nSe a origem do dinheiro é cripto, qualquer cartão gera o mesmo fato gerador. A conversão de cripto para real ou dólar na hora do gasto é venda para a Receita, independente do cartão ser da Bitget, OKX ou nacional.\n\nTrocar de emissor offshore para nacional não elimina a obrigação do GCAP e da Lei 14.754 se você é residente fiscal no Brasil.\n\nDiferença prática entre eles:\n• Cartão offshore Bitget/OKX: não reporta automaticamente para a Receita, mas você continua obrigado a declarar\n• Cartão nacional: banco/fintech reporta automaticamente via e-Financeira para a Receita, BCB tem visibilidade total\n• Imposto sobre ganho de cripto é igual nos dois, isenção só até R$ 35 mil em vendas no mês\n\nOu seja, o nacional é até mais vigiado. Ele não te livra do imposto, só torna a omissão mais fácil de ser detectada.\n\nSe você quer zerar imposto de forma legal, a única via é não ter ganho tributável, ficar dentro da isenção mensal ou mudar de residência fiscal com planejamento declarado. Usar cartão para ocultar venda é sonegação pela Lei 8.137/90.\n\nSe a ideia é só gastar reais sem dor de cabeça com cripto, aí sim um cartão nacional com saldo em reais resolve, mas desde que o saldo não venha de venda de cripto não declarada.\n\nQuer que eu simule quanto ficaria seu imposto dentro da isenção para ver se vale a pena manter tudo declarado?\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_22_ses_mobi",
+      "time_created": 1787747629611,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Eu usaria reais mesmo, o que que dizer com não reporta automático"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_23_ses_mobi",
+      "time_created": 1787747629612,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**O que quis dizer com não reporta automático**\n\nCartão nacional reporta sozinho. Cartão offshore não.\n\nCartão nacional é emitido por banco ou fintech brasileira. Por lei ele envia todo mês seus dados para a Receita via e-Financeira e para o BCB via CCS. Saldo, CPF, movimentação acima de R$ 2 mil para pessoa física. É automático, você não faz nada e o governo já sabe.\n\nCartão offshore da Bitget Wallet ou OKX é emitido fora do Brasil. Esse emissor não está no sistema brasileiro, então ele não envia e-Financeira. No momento do pedido e do gasto não vai aviso automático para a Receita ou BCB.\n\nIsso não significa anonimato. Significa só que não há envio mensal automático.\n\n• Nacional: reporte automático mensal para Receita e BCB\n• Offshore: sem reporte automático mensal, dados ficam com emissor estrangeiro\n• Offshore pode ter reporte anual via CRS da OCDE, se o país do emissor participa\n• Em investigação a Receita pode pedir dados via cooperação internacional\n\nSe você vai usar reais mesmo, sem cripto, aí não tem imposto de cripto. O imposto de cripto só existe quando você converte cripto para gastar. Se carregar qualquer cartão com venda de cripto, mesmo que gaste em reais, o fato gerador já aconteceu e você continua obrigado a declarar.\n\nPor isso falei que nacional não te livra de imposto de cripto, só torna a fiscalização mais rápida por já ser reportado.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_24_ses_mobi",
+      "time_created": 1787747629613,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "A offshore informa quanto e qual cripto eu tenho no saldo do cartão?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_25_ses_mobi",
+      "time_created": 1787747629614,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. O saldo do cartão não é em cripto.**\n\nTanto Bitget Wallet Card quanto OKX Card são pré-pagos em moeda fiduciária, dólar ou euro. A cripto só aparece na hora que você carrega o cartão e é convertida na hora.\n\nO que a offshore sabe e o que ela informa são coisas diferentes.\n\nO que o emissor sabe:\n• Qual cripto você usou para carregar, ex: USDT, USDC e a rede\n• Valor em dólar da conversão e saldo atual do cartão em fiat\n• Ele não vê seu saldo total na Bitget Wallet autocustodial, só o que você enviou para o cartão\n\nO que ele informa para o Brasil:\n• Não envia e-Financeira mensal como banco nacional\n• Não informa automaticamente para Receita ou BCB a cada carga\n• Se o país do emissor participa do CRS da OCDE, pode haver troca anual automática de saldo em fiat da conta pré-paga, não o detalhe da sua wallet\n\nOu seja, se você deixar cripto parada na Bitget Wallet sem carregar o cartão, o emissor não sabe quanto você tem. Ele só conhece o histórico de cargas que você fez.\n\nIsso não elimina sua obrigação. Pela IN 1888 e Lei 14.754, você como residente fiscal tem que declarar o saldo e o ganho na conversão, mesmo que a offshore não reporte.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_26_ses_mobi",
+      "time_created": 1787747629615,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mesmo q eu usei essas recargas , elas são informadas?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_27_ses_mobi",
+      "time_created": 1787747629616,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. A recarga não gera aviso automático para a Receita na hora.**\n\nQuando você recarrega o Bitget Wallet Card com cripto, a conversão para dólar acontece no sistema do emissor offshore. Ele registra a operação, mas não envia e-Financeira para a Receita como um banco nacional faria.\n\nO que o emissor registra e guarda:\n• qual cripto e rede você usou na recarga\n• valor convertido e saldo em fiat do cartão\n• seu KYC e histórico de cargas e gastos\n\nEle não vê seu saldo total na Bitget Wallet, só o que você enviou para o cartão.\n\nQuando isso poderia chegar ao Brasil:\n• sem envio mensal automático para Receita ou BCB\n• se o país do emissor participa do CRS da OCDE, pode haver troca anual automática de saldo e rendimentos da conta pré-paga em fiat, não o detalhe da sua wallet\n• em fiscalização, a Receita pode pedir dados via cooperação internacional\n\nNa prática a recarga fica registrada lá fora, mas não é informada recarga a recarga aqui. Sua obrigação de declarar a venda e pagar ganho de capital acima de R$ 35 mil no mês continua sendo sua, pela IN 1888 e Lei 14.754.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_28_ses_mobi",
+      "time_created": 1787747629617,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "E offshore entrega as compras q farei com o cartão ou o saldoq tenho?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_29_ses_mobi",
+      "time_created": 1787747629618,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**O que a offshore sabe é diferente do que ela entrega automaticamente.**\n\nO emissor do Bitget Wallet Card sabe tudo: cada recarga, cada compra, local, valor e saldo em dólar do cartão. Ele guarda o extrato completo.\n\nO que ele entrega automaticamente para o Brasil é outra coisa.\n\n• Compras do dia a dia não são enviadas compra a compra para a Receita ou BCB. Não existe e-Financeira para emissor offshore\n• O que pode ser trocado automaticamente é o saldo anual da conta pré-paga em fiat via CRS da OCDE, se o país do emissor participa. É valor total, não lista de onde você gastou\n• O detalhe das compras só aparece se houver pedido formal de cooperação internacional em fiscalização ou investigação\n\nOu seja, o emissor conhece suas compras e seu saldo, mas não entrega o extrato detalhado de forma automática e mensal como um banco nacional faz.\n\nIsso não muda sua obrigação. Se a recarga veio de cripto, a venda já aconteceu e você continua obrigado a declarar pela IN 1888 e Lei 14.754, mesmo sem aviso automático.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_30_ses_mobi",
+      "time_created": 1787747629619,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Então se eu esvaziar o saldo do cartão antes de ser entregue, o que a receita federal recebe e uma conta de cartão sem saldo e sem histórico?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_31_ses_mobi",
+      "time_created": 1787747629620,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Esvaziar o saldo não deixa a conta sem histórico.**\n\nO emissor offshore guarda todo o extrato por anos por obrigação de AML, mesmo que você zere o saldo. Zerar não apaga as recargas e compras.\n\n**Como funciona o que pode ser entregue via CRS**\n\nO Brasil participa do CRS da OCDE desde 2018 pelo Decreto 8.842. Se o país do emissor participa, a troca é anual, não compra a compra. É um snapshot em 31/12.\n\nO que seria trocado, se houver troca:\n• identificação do titular via KYC\n• saldo da conta pré-paga em fiat em 31/12\n• se a conta foi encerrada no ano, ela é reportada como encerrada com saldo antes do encerramento\n• não vai lista detalhada de onde você gastou\n\nOu seja, mesmo zerado em 31/12, a conta existiu e pode ser reportada como conta com saldo zero ou encerrada. E o histórico completo continua no emissor para eventual pedido de cooperação internacional.\n\n**Isso não muda sua obrigação no Brasil**\n\nPela IN 1888 e Lei 14.754, você como residente fiscal tem que declarar a venda da cripto na recarga e o saldo, independente do que o emissor reporta ou deixa de reportar. Tentar zerar antes da data de reporte não elimina o fato gerador e pode configurar sonegação da Lei 8.137/90.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_32_ses_mobi",
+      "time_created": 1787747629621,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Você não respondeu.inha pergunta, e está me confundindo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_33_ses_mobi",
+      "time_created": 1787747629622,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Não fica sem histórico.**\n\nDesculpa a confusão, vou direto.\n\nSe você zerar o saldo antes de 31/12, a Receita não recebe uma conta limpa sem passado.\n\nO emissor guarda todo o histórico por 5 anos ou mais por regra internacional de AML. Zerar não apaga.\n\nO que pode ir para a Receita via CRS é só um resumo anual em 31/12, não compra a compra:\n\n• Se deixou zerado: vai seu nome e CPF com saldo zero em 31/12\n• Se encerrou a conta: vai como conta encerrada no ano\n• Não vai lista de onde você gastou, só identificação e saldo\n\nO histórico detalhado de recargas e compras fica no emissor lá fora. Ele só entrega se a Receita pedir via cooperação internacional em fiscalização.\n\nOu seja, esvaziar não esconde que a conta existiu e foi usada. E para a lei brasileira você continua obrigado a declarar a venda da cripto na recarga, mesmo com saldo zero.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_34_ses_mobi",
+      "time_created": 1787747629623,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ainda não respondeu, vou reformular a dúvida, o q a receita federal recebe e só um informe de rendimentos?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_35_ses_mobi",
+      "time_created": 1787747629624,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_36_ses_mobi",
+      "time_created": 1787747629625,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ainda não respondeu, vou reformular a dúvida, o q a receita federal recebe e só um informe de rendimentos?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_37_ses_mobi",
+      "time_created": 1787747629626,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Não é informe de rendimentos.**\n\nInforme de rendimentos é documento de banco brasileiro, enviado via e-Financeira e DIRF. Emissor offshore da Bitget não emite isso e não envia para a Receita.\n\nO que a Receita poderia receber, se o país do emissor participa do CRS da OCDE, é um relatório CRS anual. É outro documento, enviado uma vez por ano com foto de 31/12.\n\nO que vai nesse relatório CRS, se houver troca:\n• seu nome, CPF, data de nascimento e endereço do KYC\n• número da conta pré-paga\n• saldo em dólar em 31/12\n• se a conta foi encerrada no ano, aviso de encerramento\n• valor de juros ou rendimentos, no cartão pré-pago geralmente zero\n\nO que não vai nesse relatório:\ncompras, locais onde gastou, qual cripto usou na recarga. Isso fica só no extrato guardado lá fora e só aparece se a Receita pedir via cooperação internacional.\n\nSe o saldo estiver zerado em 31/12, o relatório vai com saldo zero, mas ainda mostra que a conta existiu. Zerar não apaga o histórico.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_38_ses_mobi",
+      "time_created": 1787747629627,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "E quais são as chances de pedirem, extrato de movimentação?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_39_ses_mobi",
+      "time_created": 1787747629628,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Chances de pedirem extrato detalhado são baixas, mas não são zero**\n\nNão existe estatística pública da Receita sobre isso, então não dá para dar percentual. Dá para explicar quando o risco sobe.\n\nO extrato detalhado de compras não vem automático via CRS. Para ter esse detalhe a Receita precisa abrir fiscalização e pedir via cooperação internacional. Isso é mais raro e custoso, usado em casos específicos.\n\nQuando o pedido é mais provável:\n• divergência entre renda declarada e padrão de gastos ou bens\n• movimentação alta via PIX, bancos nacionais ou compra de imóvel/carro sem lastro\n• cair em malha fina ou ser selecionado por análise de risco da Receita\n• comunicação do COAF por operação atípica\n• volume alto e recorrente no cartão offshore\n\nQuando o pedido é menos provável:\nvalores pequenos, dentro da isenção de R$ 35 mil por mês em vendas de cripto, sem outras inconsistências e sem bens incompatíveis. A Receita prioriza casos de maior valor.\n\nMesmo com saldo zerado em 31/12, o histórico fica guardado no emissor por anos por regra de AML. Zerar não apaga.\n\nPara residente fiscal no Brasil a obrigação de declarar a venda na recarga continua, independente de pedirem ou não o extrato. Risco existe por 5 anos de prescrição.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_0_ses_mobi",
+      "message_id": "msg_0_ses_mobi",
+      "time_created": 1787747629589,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Chief of Staff]\n\nPronto, CEO.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_1_ses_mobi",
+      "message_id": "msg_1_ses_mobi",
+      "time_created": 1787747629590,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_2_ses_mobi",
+      "message_id": "msg_2_ses_mobi",
+      "time_created": 1787747629591,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_3_ses_mobi",
+      "message_id": "msg_3_ses_mobi",
+      "time_created": 1787747629592,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+      }
+    },
+    {
+      "id": "part_4_ses_mobi",
+      "message_id": "msg_4_ses_mobi",
+      "time_created": 1787747629593,
+      "data": {
+        "type": "text",
+        "text": "Teste"
+      }
+    },
+    {
+      "id": "part_5_ses_mobi",
+      "message_id": "msg_5_ses_mobi",
+      "time_created": 1787747629594,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\nTeste recebido com sucesso.\n\nProtocolo Mobile ativo e operacional. Sistema pronto para comando.\n\nMe diga a próxima instrução que executo.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_6_ses_mobi",
+      "message_id": "msg_6_ses_mobi",
+      "time_created": 1787747629595,
+      "data": {
+        "type": "text",
+        "text": "O cartão da bitget wallet e igual ao da okx?"
+      }
+    },
+    {
+      "id": "part_7_ses_mobi",
+      "message_id": "msg_7_ses_mobi",
+      "time_created": 1787747629596,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Conceito igual, produto diferente.**\n\nAmbos são cartões pré-pagos Visa que gastam cripto convertendo para moeda local na hora do pagamento. Funcionam igual no uso.\n\n**Diferença principal**\n\nBitget Wallet Card é ligado à carteira self-custody Bitget Wallet. OKX Card é ligado ao saldo da corretora OKX. São empresas e emissores diferentes.\n\nPrincipais diferenças:\n• Emissor, bandeira e taxas variam por região\n• Taxas de emissão, manutenção e câmbio diferentes\n• Limites, cashback e países disponíveis diferentes\n• OKX debita da conta da exchange, Bitget debita da wallet\n\nNo dia a dia a experiência é a mesma: virtual + físico, Apple Pay/Google Pay e conversão automática de USDT/USDC.\n\nSe você já opera em uma das duas, use o cartão dela. Não vale ter os dois. Antes de pedir, confirme no site oficial se já liberou para Brasil e as taxas atuais.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_8_ses_mobi",
+      "message_id": "msg_8_ses_mobi",
+      "time_created": 1787747629597,
+      "data": {
+        "type": "text",
+        "text": "Então a bitget usa autocustodial?"
+      }
+    },
+    {
+      "id": "part_9_ses_mobi",
+      "message_id": "msg_9_ses_mobi",
+      "time_created": 1787747629598,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sim. A Bitget Wallet é autocustodial.**\n\nEla é diferente da corretora Bitget. São dois produtos separados.\n\nA corretora Bitget é custodial, a exchange guarda seu saldo. A Bitget Wallet (antiga BitKeep) é autocustodial, você guarda as 12 palavras e controla as chaves.\n\n**O cartão usa a Wallet, não a corretora.**\n\nPor isso o Bitget Wallet Card debita direto da sua carteira self-custody. Você aprova o gasto e a conversão na hora do pagamento.\n\nNa prática:\n• Você tem controle total, sem depender da corretora\n• Se perder a seed phrase, perde o acesso\n• Se a corretora sair do ar, sua Wallet continua\n\nÉ o oposto do cartão da OKX, que debita do saldo custodial da exchange.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_10_ses_mobi",
+      "message_id": "msg_10_ses_mobi",
+      "time_created": 1787747629599,
+      "data": {
+        "type": "text",
+        "text": "Pensei q a okx usava wallet para o cartão"
+      }
+    },
+    {
+      "id": "part_11_ses_mobi",
+      "message_id": "msg_11_ses_mobi",
+      "time_created": 1787747629600,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não, é o contrário. Você confundiu os produtos.**\n\nA OKX tem dois produtos separados: a corretora OKX (custodial) e a OKX Wallet Web3 (autocustodial).\n\nO OKX Card debita do saldo da corretora, não da OKX Wallet. Você precisa deixar a cripto na exchange para gastar. É custodial.\n\nA Bitget também tem dois: a corretora Bitget e a Bitget Wallet. Só que o Bitget Wallet Card debita direto da carteira autocustodial. Você mantém as 12 palavras e gasta sem passar pela corretora.\n\nResumo prático:\n• Bitget Wallet Card = autocustodial, você controla as chaves\n• OKX Card = custodial, a exchange controla o saldo\n• Ambos exigem KYC no emissor do cartão, mesmo o da Bitget\n• Para usar saldo da OKX Wallet no cartão, teria que enviar para a corretora antes\n\nSe sua prioridade é autocustódia total, o modelo da Bitget Wallet é o único dos dois que entrega isso.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_12_ses_mobi",
+      "message_id": "msg_12_ses_mobi",
+      "time_created": 1787747629601,
+      "data": {
+        "type": "text",
+        "text": "Entendi, e a bitget cartão e de fora do Brasil, que nem a okx?"
+      }
+    },
+    {
+      "id": "part_13_ses_mobi",
+      "message_id": "msg_13_ses_mobi",
+      "time_created": 1787747629602,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sim, os dois são de fora. Nenhum é brasileiro.**\n\nTanto o Bitget Wallet Card quanto o OKX Card são cartões internacionais Visa, emitidos por parceiros no exterior. Não são regulados pelo BCB e não têm emissor no Brasil.\n\nFuncionam aqui como qualquer Visa internacional, passa na maquininha normal, mas a cobrança é em dólar ou euro com conversão na hora.\n\nO que isso implica para você:\n• Sem proteção do BCB, é produto offshore\n• Sem IOF brasileiro, mas tem spread de câmbio do emissor\n• KYC obrigatório com documento, mesmo o da Bitget\n• Até meu último lastro, nenhum dos dois tinha emissão oficial liberada para CPF no Brasil, só lista de espera\n\nNa prática são iguais nisso. Se liberar para Brasil, será como cartão pré-pago internacional.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_14_ses_mobi",
+      "message_id": "msg_14_ses_mobi",
+      "time_created": 1787747629603,
+      "data": {
+        "type": "text",
+        "text": "E quanto a report a receita federal?"
+      }
+    },
+    {
+      "id": "part_15_ses_mobi",
+      "message_id": "msg_15_ses_mobi",
+      "time_created": 1787747629604,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Todo gasto no cartão é venda de cripto para a Receita.**\n\nQuando você passa o cartão, a cripto é convertida para dólar na hora. Para a Receita Federal isso é alienação, igual vender na corretora. Gera ganho de capital.\n\nNão importa se é Bitget Wallet autocustodial ou OKX custodial. A obrigação de reportar é sua. O emissor é offshore e não envia nada para a Receita, mas você tem que declarar.\n\nO que você precisa fazer:\n\n• Declarar saldo em Bens e Direitos no IRPF todo ano, código 81/82/89\n• Apurar ganho de capital no GCAP se vendeu mais de R$ 35 mil no mês\n• Pagar DARF de 15% a 22,5% sobre o lucro se ultrapassar a isenção\n• Guardar extrato da Wallet/corretora para comprovar custo de aquisição\n\n**Atenção para a Lei 14.754/2023.**\n\nCripto mantida no exterior, como nesses dois cartões, passou a ser tratada como aplicação financeira no exterior. Tributação de 15% anual sobre os rendimentos, mesmo sem vender, com declaração específica. Regra nova e ainda com dúvidas de regulamentação pela IN 1888/2019.\n\nNa prática, qualquer gasto no cartão entra no limite de R$ 35 mil. Mesmo compras pequenas somam no mês. Se ficar abaixo, isento mas ainda declara o bem. Se passar, paga imposto.\n\nRecomendo controle mensal em planilha e contador que entenda de cripto. Não confie que por ser autocustodial a Bitget te esconde da Receita.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_16_ses_mobi",
+      "message_id": "msg_16_ses_mobi",
+      "time_created": 1787747629605,
+      "data": {
+        "type": "text",
+        "text": "Caso eu peça um cartão na bitget wallet, usando minha identidade brasileira, a instituições governamentais seriam informadas do pedido?"
+      }
+    },
+    {
+      "id": "part_17_ses_mobi",
+      "message_id": "msg_17_ses_mobi",
+      "time_created": 1787747629606,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta: não, não há aviso automático no ato do pedido.**\n\nSe você pedir o Bitget Wallet Card com documento brasileiro, nenhuma instituição brasileira como Receita Federal ou BCB é notificada automaticamente. O pedido fica só entre você e o emissor offshore do cartão.\n\n**Onde seus dados ficam então**\n\nO KYC é feito pelo emissor parceiro Visa da Bitget Wallet, não pela Receita. Ele coleta RG/passaporte, selfie e endereço e armazena fora do Brasil. Esse emissor não tem integração direta com o gov.br.\n\n• Dados ficam com o emissor e o provedor de KYC\n• Não vai DARF ou informe automático para a Receita no pedido\n• Transação na maquininha passa na rede Visa, mas não é conta reportada ao BCB\n\n**Quando o governo poderia saber**\n\nExistem duas exceções, mas não são no momento do pedido.\n\n• Troca automática CRS da OCDE: Brasil participa desde 2018. Se o emissor estiver em país signatário, saldos e rendimentos podem ser trocados anualmente entre fiscos. Para cartão pré-pago de baixo saldo o reporte é incerto e varia por emissor\n• Fiscalização ou COAF: em caso de auditoria, investigação ou movimentação atípica, a Receita pode solicitar dados via cooperação internacional\n\nNa prática, o risco não é o pedido, é o uso sem declarar. A obrigação de declarar o bem e o ganho de capital continua sendo sua pela IN 1888 e Lei 14.754, mesmo sendo autocustodial e offshore.\n\nMantenha extrato e declare corretamente. Anonimato não existe após KYC.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_18_ses_mobi",
+      "message_id": "msg_18_ses_mobi",
+      "time_created": 1787747629607,
+      "data": {
+        "type": "text",
+        "text": "Verifique as regras do emissor, porque não tenho interesse em declaração brasileira, tô querendo usar justamente para não pagar imposto para governo corruto"
+      }
+    },
+    {
+      "id": "part_19_ses_mobi",
+      "message_id": "msg_19_ses_mobi",
+      "time_created": 1787747629608,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Entendo sua frustração, mas preciso ser direto sobre o risco legal.**\n\nNão posso ajudar a usar o cartão para não declarar ou não pagar imposto. Se você é residente fiscal no Brasil, a lei te obriga a declarar, mesmo com produto offshore e autocustodial.\n\n**O que dizem as regras do emissor**\n\nSem acesso em tempo real, mas o padrão dos dois emissores é o mesmo e está nos Termos de Uso: o emissor faz KYC e diz que o usuário é o único responsável por cumprir as obrigações fiscais do seu país. Ele não recolhe imposto para o Brasil e não te isenta.\n\n• KYC obrigatório, não existe cartão sem identificação\n• Termos transferem toda responsabilidade tributária para você\n• Emissor não faz declaração no Brasil por você\n\n**O que diz a lei brasileira para residente fiscal**\n\n• Tributação por renda mundial: art. 25 da Lei 9.250/95 e IN RFB 1.888/2019\n• Ganho com cripto é tributado no GCAP, isenção só até R$ 35 mil em vendas no mês\n• Lei 14.754/2023 trata cripto no exterior como aplicação financeira no exterior, com tributação anual de 15%\n• Sonegação fiscal é crime previsto na Lei 8.137/90, com multa de 75% a 150% mais juros e risco penal\n\nUsar cartão offshore não muda sua residência fiscal. Enquanto for residente no Brasil, a obrigação continua, mesmo que o emissor não informe automaticamente.\n\nSe seu objetivo é reduzir carga tributária de forma legal, o caminho é planejamento tributário com contador e advogado, como mudança de residência fiscal ou estruturação declarada, não omissão.\n\nPosso te explicar como declarar corretamente e pagar o mínimo dentro da lei se quiser. Recomendo consultar um contador especializado em cripto antes de pedir qualquer cartão.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_20_ses_mobi",
+      "message_id": "msg_20_ses_mobi",
+      "time_created": 1787747629609,
+      "data": {
+        "type": "text",
+        "text": "Não quero pagar nada de imposto, então se for só pra ter um cartão, sem essas obrigações ridícula pra cripto, e melhor ter um nacional mesmo"
+      }
+    },
+    {
+      "id": "part_21_ses_mobi",
+      "message_id": "msg_21_ses_mobi",
+      "time_created": 1787747629610,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Cartão nacional não resolve seu problema tributário.**\n\nSe a origem do dinheiro é cripto, qualquer cartão gera o mesmo fato gerador. A conversão de cripto para real ou dólar na hora do gasto é venda para a Receita, independente do cartão ser da Bitget, OKX ou nacional.\n\nTrocar de emissor offshore para nacional não elimina a obrigação do GCAP e da Lei 14.754 se você é residente fiscal no Brasil.\n\nDiferença prática entre eles:\n• Cartão offshore Bitget/OKX: não reporta automaticamente para a Receita, mas você continua obrigado a declarar\n• Cartão nacional: banco/fintech reporta automaticamente via e-Financeira para a Receita, BCB tem visibilidade total\n• Imposto sobre ganho de cripto é igual nos dois, isenção só até R$ 35 mil em vendas no mês\n\nOu seja, o nacional é até mais vigiado. Ele não te livra do imposto, só torna a omissão mais fácil de ser detectada.\n\nSe você quer zerar imposto de forma legal, a única via é não ter ganho tributável, ficar dentro da isenção mensal ou mudar de residência fiscal com planejamento declarado. Usar cartão para ocultar venda é sonegação pela Lei 8.137/90.\n\nSe a ideia é só gastar reais sem dor de cabeça com cripto, aí sim um cartão nacional com saldo em reais resolve, mas desde que o saldo não venha de venda de cripto não declarada.\n\nQuer que eu simule quanto ficaria seu imposto dentro da isenção para ver se vale a pena manter tudo declarado?\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_22_ses_mobi",
+      "message_id": "msg_22_ses_mobi",
+      "time_created": 1787747629611,
+      "data": {
+        "type": "text",
+        "text": "Eu usaria reais mesmo, o que que dizer com não reporta automático"
+      }
+    },
+    {
+      "id": "part_23_ses_mobi",
+      "message_id": "msg_23_ses_mobi",
+      "time_created": 1787747629612,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**O que quis dizer com não reporta automático**\n\nCartão nacional reporta sozinho. Cartão offshore não.\n\nCartão nacional é emitido por banco ou fintech brasileira. Por lei ele envia todo mês seus dados para a Receita via e-Financeira e para o BCB via CCS. Saldo, CPF, movimentação acima de R$ 2 mil para pessoa física. É automático, você não faz nada e o governo já sabe.\n\nCartão offshore da Bitget Wallet ou OKX é emitido fora do Brasil. Esse emissor não está no sistema brasileiro, então ele não envia e-Financeira. No momento do pedido e do gasto não vai aviso automático para a Receita ou BCB.\n\nIsso não significa anonimato. Significa só que não há envio mensal automático.\n\n• Nacional: reporte automático mensal para Receita e BCB\n• Offshore: sem reporte automático mensal, dados ficam com emissor estrangeiro\n• Offshore pode ter reporte anual via CRS da OCDE, se o país do emissor participa\n• Em investigação a Receita pode pedir dados via cooperação internacional\n\nSe você vai usar reais mesmo, sem cripto, aí não tem imposto de cripto. O imposto de cripto só existe quando você converte cripto para gastar. Se carregar qualquer cartão com venda de cripto, mesmo que gaste em reais, o fato gerador já aconteceu e você continua obrigado a declarar.\n\nPor isso falei que nacional não te livra de imposto de cripto, só torna a fiscalização mais rápida por já ser reportado.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_24_ses_mobi",
+      "message_id": "msg_24_ses_mobi",
+      "time_created": 1787747629613,
+      "data": {
+        "type": "text",
+        "text": "A offshore informa quanto e qual cripto eu tenho no saldo do cartão?"
+      }
+    },
+    {
+      "id": "part_25_ses_mobi",
+      "message_id": "msg_25_ses_mobi",
+      "time_created": 1787747629614,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. O saldo do cartão não é em cripto.**\n\nTanto Bitget Wallet Card quanto OKX Card são pré-pagos em moeda fiduciária, dólar ou euro. A cripto só aparece na hora que você carrega o cartão e é convertida na hora.\n\nO que a offshore sabe e o que ela informa são coisas diferentes.\n\nO que o emissor sabe:\n• Qual cripto você usou para carregar, ex: USDT, USDC e a rede\n• Valor em dólar da conversão e saldo atual do cartão em fiat\n• Ele não vê seu saldo total na Bitget Wallet autocustodial, só o que você enviou para o cartão\n\nO que ele informa para o Brasil:\n• Não envia e-Financeira mensal como banco nacional\n• Não informa automaticamente para Receita ou BCB a cada carga\n• Se o país do emissor participa do CRS da OCDE, pode haver troca anual automática de saldo em fiat da conta pré-paga, não o detalhe da sua wallet\n\nOu seja, se você deixar cripto parada na Bitget Wallet sem carregar o cartão, o emissor não sabe quanto você tem. Ele só conhece o histórico de cargas que você fez.\n\nIsso não elimina sua obrigação. Pela IN 1888 e Lei 14.754, você como residente fiscal tem que declarar o saldo e o ganho na conversão, mesmo que a offshore não reporte.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_26_ses_mobi",
+      "message_id": "msg_26_ses_mobi",
+      "time_created": 1787747629615,
+      "data": {
+        "type": "text",
+        "text": "Mesmo q eu usei essas recargas , elas são informadas?"
+      }
+    },
+    {
+      "id": "part_27_ses_mobi",
+      "message_id": "msg_27_ses_mobi",
+      "time_created": 1787747629616,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. A recarga não gera aviso automático para a Receita na hora.**\n\nQuando você recarrega o Bitget Wallet Card com cripto, a conversão para dólar acontece no sistema do emissor offshore. Ele registra a operação, mas não envia e-Financeira para a Receita como um banco nacional faria.\n\nO que o emissor registra e guarda:\n• qual cripto e rede você usou na recarga\n• valor convertido e saldo em fiat do cartão\n• seu KYC e histórico de cargas e gastos\n\nEle não vê seu saldo total na Bitget Wallet, só o que você enviou para o cartão.\n\nQuando isso poderia chegar ao Brasil:\n• sem envio mensal automático para Receita ou BCB\n• se o país do emissor participa do CRS da OCDE, pode haver troca anual automática de saldo e rendimentos da conta pré-paga em fiat, não o detalhe da sua wallet\n• em fiscalização, a Receita pode pedir dados via cooperação internacional\n\nNa prática a recarga fica registrada lá fora, mas não é informada recarga a recarga aqui. Sua obrigação de declarar a venda e pagar ganho de capital acima de R$ 35 mil no mês continua sendo sua, pela IN 1888 e Lei 14.754.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_28_ses_mobi",
+      "message_id": "msg_28_ses_mobi",
+      "time_created": 1787747629617,
+      "data": {
+        "type": "text",
+        "text": "E offshore entrega as compras q farei com o cartão ou o saldoq tenho?"
+      }
+    },
+    {
+      "id": "part_29_ses_mobi",
+      "message_id": "msg_29_ses_mobi",
+      "time_created": 1787747629618,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**O que a offshore sabe é diferente do que ela entrega automaticamente.**\n\nO emissor do Bitget Wallet Card sabe tudo: cada recarga, cada compra, local, valor e saldo em dólar do cartão. Ele guarda o extrato completo.\n\nO que ele entrega automaticamente para o Brasil é outra coisa.\n\n• Compras do dia a dia não são enviadas compra a compra para a Receita ou BCB. Não existe e-Financeira para emissor offshore\n• O que pode ser trocado automaticamente é o saldo anual da conta pré-paga em fiat via CRS da OCDE, se o país do emissor participa. É valor total, não lista de onde você gastou\n• O detalhe das compras só aparece se houver pedido formal de cooperação internacional em fiscalização ou investigação\n\nOu seja, o emissor conhece suas compras e seu saldo, mas não entrega o extrato detalhado de forma automática e mensal como um banco nacional faz.\n\nIsso não muda sua obrigação. Se a recarga veio de cripto, a venda já aconteceu e você continua obrigado a declarar pela IN 1888 e Lei 14.754, mesmo sem aviso automático.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_30_ses_mobi",
+      "message_id": "msg_30_ses_mobi",
+      "time_created": 1787747629619,
+      "data": {
+        "type": "text",
+        "text": "Então se eu esvaziar o saldo do cartão antes de ser entregue, o que a receita federal recebe e uma conta de cartão sem saldo e sem histórico?"
+      }
+    },
+    {
+      "id": "part_31_ses_mobi",
+      "message_id": "msg_31_ses_mobi",
+      "time_created": 1787747629620,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Esvaziar o saldo não deixa a conta sem histórico.**\n\nO emissor offshore guarda todo o extrato por anos por obrigação de AML, mesmo que você zere o saldo. Zerar não apaga as recargas e compras.\n\n**Como funciona o que pode ser entregue via CRS**\n\nO Brasil participa do CRS da OCDE desde 2018 pelo Decreto 8.842. Se o país do emissor participa, a troca é anual, não compra a compra. É um snapshot em 31/12.\n\nO que seria trocado, se houver troca:\n• identificação do titular via KYC\n• saldo da conta pré-paga em fiat em 31/12\n• se a conta foi encerrada no ano, ela é reportada como encerrada com saldo antes do encerramento\n• não vai lista detalhada de onde você gastou\n\nOu seja, mesmo zerado em 31/12, a conta existiu e pode ser reportada como conta com saldo zero ou encerrada. E o histórico completo continua no emissor para eventual pedido de cooperação internacional.\n\n**Isso não muda sua obrigação no Brasil**\n\nPela IN 1888 e Lei 14.754, você como residente fiscal tem que declarar a venda da cripto na recarga e o saldo, independente do que o emissor reporta ou deixa de reportar. Tentar zerar antes da data de reporte não elimina o fato gerador e pode configurar sonegação da Lei 8.137/90.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_32_ses_mobi",
+      "message_id": "msg_32_ses_mobi",
+      "time_created": 1787747629621,
+      "data": {
+        "type": "text",
+        "text": "Você não respondeu.inha pergunta, e está me confundindo"
+      }
+    },
+    {
+      "id": "part_33_ses_mobi",
+      "message_id": "msg_33_ses_mobi",
+      "time_created": 1787747629622,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Não fica sem histórico.**\n\nDesculpa a confusão, vou direto.\n\nSe você zerar o saldo antes de 31/12, a Receita não recebe uma conta limpa sem passado.\n\nO emissor guarda todo o histórico por 5 anos ou mais por regra internacional de AML. Zerar não apaga.\n\nO que pode ir para a Receita via CRS é só um resumo anual em 31/12, não compra a compra:\n\n• Se deixou zerado: vai seu nome e CPF com saldo zero em 31/12\n• Se encerrou a conta: vai como conta encerrada no ano\n• Não vai lista de onde você gastou, só identificação e saldo\n\nO histórico detalhado de recargas e compras fica no emissor lá fora. Ele só entrega se a Receita pedir via cooperação internacional em fiscalização.\n\nOu seja, esvaziar não esconde que a conta existiu e foi usada. E para a lei brasileira você continua obrigado a declarar a venda da cripto na recarga, mesmo com saldo zero.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_34_ses_mobi",
+      "message_id": "msg_34_ses_mobi",
+      "time_created": 1787747629623,
+      "data": {
+        "type": "text",
+        "text": "Ainda não respondeu, vou reformular a dúvida, o q a receita federal recebe e só um informe de rendimentos?"
+      }
+    },
+    {
+      "id": "part_35_ses_mobi",
+      "message_id": "msg_35_ses_mobi",
+      "time_created": 1787747629624,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: SRE]\n\nErro meta/muse-spark-1.2: Failed to fetch\n\nSem internet ou CORS. Verifique Wi-Fi e ⚙️.\n\n🐙 [Status: Erro]"
+      }
+    },
+    {
+      "id": "part_36_ses_mobi",
+      "message_id": "msg_36_ses_mobi",
+      "time_created": 1787747629625,
+      "data": {
+        "type": "text",
+        "text": "Ainda não respondeu, vou reformular a dúvida, o q a receita federal recebe e só um informe de rendimentos?"
+      }
+    },
+    {
+      "id": "part_37_ses_mobi",
+      "message_id": "msg_37_ses_mobi",
+      "time_created": 1787747629626,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Não. Não é informe de rendimentos.**\n\nInforme de rendimentos é documento de banco brasileiro, enviado via e-Financeira e DIRF. Emissor offshore da Bitget não emite isso e não envia para a Receita.\n\nO que a Receita poderia receber, se o país do emissor participa do CRS da OCDE, é um relatório CRS anual. É outro documento, enviado uma vez por ano com foto de 31/12.\n\nO que vai nesse relatório CRS, se houver troca:\n• seu nome, CPF, data de nascimento e endereço do KYC\n• número da conta pré-paga\n• saldo em dólar em 31/12\n• se a conta foi encerrada no ano, aviso de encerramento\n• valor de juros ou rendimentos, no cartão pré-pago geralmente zero\n\nO que não vai nesse relatório:\ncompras, locais onde gastou, qual cripto usou na recarga. Isso fica só no extrato guardado lá fora e só aparece se a Receita pedir via cooperação internacional.\n\nSe o saldo estiver zerado em 31/12, o relatório vai com saldo zero, mas ainda mostra que a conta existiu. Zerar não apaga o histórico.\n\n🐙 [Status: Validado]"
+      }
+    },
+    {
+      "id": "part_38_ses_mobi",
+      "message_id": "msg_38_ses_mobi",
+      "time_created": 1787747629627,
+      "data": {
+        "type": "text",
+        "text": "E quais são as chances de pedirem, extrato de movimentação?"
+      }
+    },
+    {
+      "id": "part_39_ses_mobi",
+      "message_id": "msg_39_ses_mobi",
+      "time_created": 1787747629628,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Chances de pedirem extrato detalhado são baixas, mas não são zero**\n\nNão existe estatística pública da Receita sobre isso, então não dá para dar percentual. Dá para explicar quando o risco sobe.\n\nO extrato detalhado de compras não vem automático via CRS. Para ter esse detalhe a Receita precisa abrir fiscalização e pedir via cooperação internacional. Isso é mais raro e custoso, usado em casos específicos.\n\nQuando o pedido é mais provável:\n• divergência entre renda declarada e padrão de gastos ou bens\n• movimentação alta via PIX, bancos nacionais ou compra de imóvel/carro sem lastro\n• cair em malha fina ou ser selecionado por análise de risco da Receita\n• comunicação do COAF por operação atípica\n• volume alto e recorrente no cartão offshore\n\nQuando o pedido é menos provável:\nvalores pequenos, dentro da isenção de R$ 35 mil por mês em vendas de cripto, sem outras inconsistências e sem bens incompatíveis. A Receita prioriza casos de maior valor.\n\nMesmo com saldo zerado em 31/12, o histórico fica guardado no emissor por anos por regra de AML. Zerar não apaga.\n\nPara residente fiscal no Brasil a obrigação de declarar a venda na recarga continua, independente de pedirem ou não o extrato. Risco existe por 5 anos de prescrição.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-26T12:33:49.589Z",
+  "counts": {
+    "messages": 40,
+    "parts": 40
+  }
+}
