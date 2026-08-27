@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtatv9xw_2m",
+    "title": "[Anexos: IMG-20260826-WA0026.jpg]",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787793146493
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtatv9xw_2m_0",
+      "time_created": 1787793146493,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "[Anexos: IMG-20260826-WA0026.jpg]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtatv9xw_2m_1",
+      "time_created": 1787793146494,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\nAnálise do criativo enviado - Modelo Vega 800W da NXT.\n\n**Ficha técnica informada no material**\n\n• Autonomia de 40 a 50 Km\n• Velocidade de 32 Km/H\n• Suporta até 130 kg\n• Baterias de Grafeno\n• Motor 800W\n\nMaterial é promocional da NXT Holambra/SP. Imagens mostram scooter elétrica na cor vermelha, painel digital e farol duplo.\n\nContato do anunciante no criativo: (19) 99503-1148.\n\nObservação: dados são declarados pelo fabricante/vendedor. Autonomia e velocidade reais variam com peso, relevo e modo de condução. Sem lastro técnico INMETRO no criativo.\n\nQuer que eu cote preço e compare com concorrentes 800W/1000W?\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtatv9xw_2m_0",
+      "message_id": "msg_ses_mobile_mtatv9xw_2m_0",
+      "session_id": "ses_mobile_mtatv9xw_2m",
+      "time_created": 1787793146493,
+      "data": {
+        "type": "text",
+        "text": "[Anexos: IMG-20260826-WA0026.jpg]"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtatv9xw_2m_1",
+      "message_id": "msg_ses_mobile_mtatv9xw_2m_1",
+      "session_id": "ses_mobile_mtatv9xw_2m",
+      "time_created": 1787793146494,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\nAnálise do criativo enviado - Modelo Vega 800W da NXT.\n\n**Ficha técnica informada no material**\n\n• Autonomia de 40 a 50 Km\n• Velocidade de 32 Km/H\n• Suporta até 130 kg\n• Baterias de Grafeno\n• Motor 800W\n\nMaterial é promocional da NXT Holambra/SP. Imagens mostram scooter elétrica na cor vermelha, painel digital e farol duplo.\n\nContato do anunciante no criativo: (19) 99503-1148.\n\nObservação: dados são declarados pelo fabricante/vendedor. Autonomia e velocidade reais variam com peso, relevo e modo de condução. Sem lastro técnico INMETRO no criativo.\n\nQuer que eu cote preço e compare com concorrentes 800W/1000W?\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-27T01:12:26.493Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
