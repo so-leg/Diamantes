@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtcc68i7_qf",
+    "title": "Qual a cotação do euro hj",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787884346959
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtcc68i7_qf_0",
+      "time_created": 1787884346959,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual a cotação do euro hj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcc68i7_qf_1",
+      "time_created": 1787884346960,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Euro - 28/08/2026**\n\nSem bloco SearXNG injetado neste turno, não tenho lastro ao vivo do BCB para te entregar o valor exato sem alucinar. Decreto incerteza sobre o número de hoje.\n\nPara cotação oficial sem erro, consulte direto:\n\n• BCB - PTAX de fechamento (lastro oficial)\n• BCB - Conversor de moedas em bcb.gov.br\n• Seu banco/corretora para euro turismo/comercial na hora\n\nSe quiser, cole aqui o link do BCB ou print que eu valido e resumo na hora.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtcc68i7_qf_0",
+      "message_id": "msg_ses_mobile_mtcc68i7_qf_0",
+      "session_id": "ses_mobile_mtcc68i7_qf",
+      "time_created": 1787884346959,
+      "data": {
+        "type": "text",
+        "text": "Qual a cotação do euro hj"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcc68i7_qf_1",
+      "message_id": "msg_ses_mobile_mtcc68i7_qf_1",
+      "session_id": "ses_mobile_mtcc68i7_qf",
+      "time_created": 1787884346960,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Euro - 28/08/2026**\n\nSem bloco SearXNG injetado neste turno, não tenho lastro ao vivo do BCB para te entregar o valor exato sem alucinar. Decreto incerteza sobre o número de hoje.\n\nPara cotação oficial sem erro, consulte direto:\n\n• BCB - PTAX de fechamento (lastro oficial)\n• BCB - Conversor de moedas em bcb.gov.br\n• Seu banco/corretora para euro turismo/comercial na hora\n\nSe quiser, cole aqui o link do BCB ou print que eu valido e resumo na hora.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:32:26.959Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
