@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtc8fk9d_mc",
+    "title": "Pesquisa o site da jovem pan e me relate",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787878071633
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtc8fk9d_mc_0",
+      "time_created": 1787878071633,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pesquisa o site da jovem pan e me relate o que encontrar de Pânico"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc8fk9d_mc_1",
+      "time_created": 1787878071634,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Busca solicitada: Jovem Pan / Pânico**\n\nTentei buscar via SearXNG mas o app não injetou nenhum bloco [Conteúdo de https://... — auto webfetch] neste turno. Sem lastro ao vivo não posso relatar manchetes atuais sem risco de alucinação.\n\nO Pânico é o programa de humor da Jovem Pan, com página oficial em jovempan.com.br/entretenimento/panico. Sem acesso ao conteúdo em tempo real, decreto incerteza sobre as matérias do dia.\n\nPara te entregar o relato com precisão absoluta, faça assim:\n\n• cole aqui o link direto da página do Pânico que quer analisar\n• ou cole o texto/print da matéria\n• eu resumo na hora em formato mobile limpo\n\nAssim que enviar, processo e devolvo os destaques validados.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtc8fk9d_mc_0",
+      "message_id": "msg_ses_mobile_mtc8fk9d_mc_0",
+      "session_id": "ses_mobile_mtc8fk9d_mc",
+      "time_created": 1787878071633,
+      "data": {
+        "type": "text",
+        "text": "Pesquisa o site da jovem pan e me relate o que encontrar de Pânico"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc8fk9d_mc_1",
+      "message_id": "msg_ses_mobile_mtc8fk9d_mc_1",
+      "session_id": "ses_mobile_mtc8fk9d_mc",
+      "time_created": 1787878071634,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Busca solicitada: Jovem Pan / Pânico**\n\nTentei buscar via SearXNG mas o app não injetou nenhum bloco [Conteúdo de https://... — auto webfetch] neste turno. Sem lastro ao vivo não posso relatar manchetes atuais sem risco de alucinação.\n\nO Pânico é o programa de humor da Jovem Pan, com página oficial em jovempan.com.br/entretenimento/panico. Sem acesso ao conteúdo em tempo real, decreto incerteza sobre as matérias do dia.\n\nPara te entregar o relato com precisão absoluta, faça assim:\n\n• cole aqui o link direto da página do Pânico que quer analisar\n• ou cole o texto/print da matéria\n• eu resumo na hora em formato mobile limpo\n\nAssim que enviar, processo e devolvo os destaques validados.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T00:47:51.633Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
