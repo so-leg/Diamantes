@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtcb4u34_2y",
+    "title": "Relate um resumo do canal biticonheiros ",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787882622292
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtcb4u34_2y_0",
+      "time_created": 1787882622292,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Relate um resumo do canal biticonheiros no YouTube, recentemente"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcb4u34_2y_1",
+      "time_created": 1787882622293,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sobre o canal Biticonheiros**\n\nCanal brasileiro focado 100% em Bitcoin, sem shitcoins. Apresentado por Edilson Lauro e equipe, com proposta maximalista e educacional.\n\nConteúdo é voltado para fundamentos do Bitcoin, autocustódia, soberania financeira e entrevistas com nomes relevantes do ecossistema nacional e internacional.\n\n**Conteúdo recente - padrão editorial**\n\nSem bloco SearXNG injetado neste turno, não tenho acesso às manchetes em tempo real do YouTube. Pelo histórico e linha editorial, os vídeos recentes seguem este padrão:\n\n• Lives e cortes sobre preço, halving e ETFs de Bitcoin\n• Entrevistas com educadores e empreendedores do setor\n• Tutoriais de carteira, node e segurança\n• Análises de cenário macro e regulação no Brasil\n\nPara um resumo fiel dos últimos 5 a 10 vídeos com títulos, datas e views, cole aqui o link do canal ou de um vídeo específico que eu processo na hora.\n\nSem dado em tempo real, decreto incerteza sobre títulos exatos desta semana.\n\nQuer que eu busque agora? Envie a URL do canal Biticonheiros.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtcb4u34_2y_0",
+      "message_id": "msg_ses_mobile_mtcb4u34_2y_0",
+      "session_id": "ses_mobile_mtcb4u34_2y",
+      "time_created": 1787882622292,
+      "data": {
+        "type": "text",
+        "text": "Relate um resumo do canal biticonheiros no YouTube, recentemente"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcb4u34_2y_1",
+      "message_id": "msg_ses_mobile_mtcb4u34_2y_1",
+      "session_id": "ses_mobile_mtcb4u34_2y",
+      "time_created": 1787882622293,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sobre o canal Biticonheiros**\n\nCanal brasileiro focado 100% em Bitcoin, sem shitcoins. Apresentado por Edilson Lauro e equipe, com proposta maximalista e educacional.\n\nConteúdo é voltado para fundamentos do Bitcoin, autocustódia, soberania financeira e entrevistas com nomes relevantes do ecossistema nacional e internacional.\n\n**Conteúdo recente - padrão editorial**\n\nSem bloco SearXNG injetado neste turno, não tenho acesso às manchetes em tempo real do YouTube. Pelo histórico e linha editorial, os vídeos recentes seguem este padrão:\n\n• Lives e cortes sobre preço, halving e ETFs de Bitcoin\n• Entrevistas com educadores e empreendedores do setor\n• Tutoriais de carteira, node e segurança\n• Análises de cenário macro e regulação no Brasil\n\nPara um resumo fiel dos últimos 5 a 10 vídeos com títulos, datas e views, cole aqui o link do canal ou de um vídeo específico que eu processo na hora.\n\nSem dado em tempo real, decreto incerteza sobre títulos exatos desta semana.\n\nQuer que eu busque agora? Envie a URL do canal Biticonheiros.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:03:42.292Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
