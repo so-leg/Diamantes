@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtc8z8in_sx",
+    "title": "Acesse a jovem pan e me relate o top 5 n",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787878988968
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtc8z8in_sx_0",
+      "time_created": 1787878988968,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acesse a jovem pan e me relate o top 5 novidade"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc8z8in_sx_1",
+      "time_created": 1787878988969,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Tentativa de acesso Jovem Pan**\nTentei buscar via SearXNG self-hosted mas nenhum bloco [Conteúdo de https://jovempan.com.br] foi injetado neste turno.\n\nSem lastro real não vou inventar top 5. Sem dado ao vivo, decreto incerteza para não alucinar.\n\nPara te entregar o resumo agora, cole aqui o link ou o texto da página que eu processo na hora em formato mobile limpo.\n\nSite oficial para conferir direto: jovempan.com.br\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtc8z8in_sx_0",
+      "message_id": "msg_ses_mobile_mtc8z8in_sx_0",
+      "session_id": "ses_mobile_mtc8z8in_sx",
+      "time_created": 1787878988968,
+      "data": {
+        "type": "text",
+        "text": "Acesse a jovem pan e me relate o top 5 novidade"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc8z8in_sx_1",
+      "message_id": "msg_ses_mobile_mtc8z8in_sx_1",
+      "session_id": "ses_mobile_mtc8z8in_sx",
+      "time_created": 1787878988969,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Tentativa de acesso Jovem Pan**\nTentei buscar via SearXNG self-hosted mas nenhum bloco [Conteúdo de https://jovempan.com.br] foi injetado neste turno.\n\nSem lastro real não vou inventar top 5. Sem dado ao vivo, decreto incerteza para não alucinar.\n\nPara te entregar o resumo agora, cole aqui o link ou o texto da página que eu processo na hora em formato mobile limpo.\n\nSite oficial para conferir direto: jovempan.com.br\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T01:03:08.968Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
