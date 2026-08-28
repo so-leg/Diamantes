@@ -3,12 +3,12 @@
     "id": "ses_mobile_mtcwsykd_06",
     "title": "Me conta as últimas do Corinthians e me ",
     "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
-    "time_created": 1787919006523
+    "time_created": 1787919053750
   },
   "messages": [
     {
       "id": "msg_ses_mobile_mtcwsykd_06_0",
-      "time_created": 1787919006523,
+      "time_created": 1787919053750,
       "data": {
         "role": "user",
         "content": [
@@ -21,13 +21,39 @@
     },
     {
       "id": "msg_ses_mobile_mtcwsykd_06_1",
-      "time_created": 1787919006524,
+      "time_created": 1787919053751,
       "data": {
         "role": "assistant",
         "content": [
           {
             "type": "text",
             "text": "🧠 [Mente Ativa: Perito]\n\n**Corinthians - últimas notícias**\n\nTentei buscar agora mas o app não injetou nenhum bloco web [SearXNG / WebSearch / Conteúdo de URL] neste turno, então não tenho lastro real para te entregar manchetes com fontes.\n\nMeu SearXNG é open source self-hosted em 192.168.0.8:8080 e só consigo resumir quando o conteúdo já vem injetado antes da minha resposta. Sem isso, não vou inventar placar, contratação ou escalação.\n\nPara te atender com precisão absoluta, faça assim:\n\n• cole aqui o link do site oficial do Corinthians, ge.globo ou UOL que quer que eu resuma\n• ou me diga \"busque no site oficial do Corinthians\" que o app tenta injetar de novo\n\nAssim que vier o bloco, te entrego resumo limpo com as fontes citadas linha a linha, sem alucinação.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcwsykd_06_2",
+      "time_created": 1787919053752,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "busque no site oficial do Corinthians"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcwsykd_06_3",
+      "time_created": 1787919053753,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Site oficial do Corinthians - tentativa de busca**\n\nTentei buscar no site oficial agora, mas o app não injetou nenhum bloco [Conteúdo de https://corinthians.com.br — auto webfetch] ou [SearXNG] neste turno.\n\nSem esse lastro não posso te entregar manchetes com fontes, e não vou inventar notícia.\n\nMeu SearXNG é open source self-hosted em 192.168.0.8:8080 e só consigo resumir quando o conteúdo vem injetado antes da minha resposta.\n\nPara resolver rápido:\n\n• cole aqui o link direto da notícia do site oficial que quer resumida\n• ou cole o texto da página\n\nAssim que o bloco entrar, te devolvo resumo limpo com fonte citada linha a linha.\n\n🐙 [Status: Validado]"
           }
         ]
       }
@@ -38,7 +64,7 @@
       "id": "part_ses_mobile_mtcwsykd_06_0",
       "message_id": "msg_ses_mobile_mtcwsykd_06_0",
       "session_id": "ses_mobile_mtcwsykd_06",
-      "time_created": 1787919006523,
+      "time_created": 1787919053750,
       "data": {
         "type": "text",
         "text": "Me conta as últimas do Corinthians e me d as fontes"
@@ -48,16 +74,36 @@
       "id": "part_ses_mobile_mtcwsykd_06_1",
       "message_id": "msg_ses_mobile_mtcwsykd_06_1",
       "session_id": "ses_mobile_mtcwsykd_06",
-      "time_created": 1787919006524,
+      "time_created": 1787919053751,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Corinthians - últimas notícias**\n\nTentei buscar agora mas o app não injetou nenhum bloco web [SearXNG / WebSearch / Conteúdo de URL] neste turno, então não tenho lastro real para te entregar manchetes com fontes.\n\nMeu SearXNG é open source self-hosted em 192.168.0.8:8080 e só consigo resumir quando o conteúdo já vem injetado antes da minha resposta. Sem isso, não vou inventar placar, contratação ou escalação.\n\nPara te atender com precisão absoluta, faça assim:\n\n• cole aqui o link do site oficial do Corinthians, ge.globo ou UOL que quer que eu resuma\n• ou me diga \"busque no site oficial do Corinthians\" que o app tenta injetar de novo\n\nAssim que vier o bloco, te entrego resumo limpo com as fontes citadas linha a linha, sem alucinação.\n\n🐙 [Status: Validado]"
       }
+    },
+    {
+      "id": "part_ses_mobile_mtcwsykd_06_2",
+      "message_id": "msg_ses_mobile_mtcwsykd_06_2",
+      "session_id": "ses_mobile_mtcwsykd_06",
+      "time_created": 1787919053752,
+      "data": {
+        "type": "text",
+        "text": "busque no site oficial do Corinthians"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcwsykd_06_3",
+      "message_id": "msg_ses_mobile_mtcwsykd_06_3",
+      "session_id": "ses_mobile_mtcwsykd_06",
+      "time_created": 1787919053753,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Site oficial do Corinthians - tentativa de busca**\n\nTentei buscar no site oficial agora, mas o app não injetou nenhum bloco [Conteúdo de https://corinthians.com.br — auto webfetch] ou [SearXNG] neste turno.\n\nSem esse lastro não posso te entregar manchetes com fontes, e não vou inventar notícia.\n\nMeu SearXNG é open source self-hosted em 192.168.0.8:8080 e só consigo resumir quando o conteúdo vem injetado antes da minha resposta.\n\nPara resolver rápido:\n\n• cole aqui o link direto da notícia do site oficial que quer resumida\n• ou cole o texto da página\n\nAssim que o bloco entrar, te devolvo resumo limpo com fonte citada linha a linha.\n\n🐙 [Status: Validado]"
+      }
     }
   ],
-  "exported_at": "2026-08-28T12:10:06.523Z",
+  "exported_at": "2026-08-28T12:10:53.750Z",
   "counts": {
-    "messages": 2,
-    "parts": 2
+    "messages": 4,
+    "parts": 4
   }
 }
