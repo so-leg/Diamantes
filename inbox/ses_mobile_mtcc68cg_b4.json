@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtcc68cg_b4",
+    "title": "Qual a cotação do euro hj",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787884351242
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtcc68cg_b4_0",
+      "time_created": 1787884351242,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual a cotação do euro hj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcc68cg_b4_1",
+      "time_created": 1787884351243,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Euro hoje - 28/08/2026**\n\nSem bloco SearXNG injetado neste turno, decreto incerteza sobre valor exato ao vivo. Sem lastro BCB em tempo real não informo número para não alucinar.\n\nOnde conferir com lastro oficial agora:\n\n• BCB PTAX - bcb.gov.br/estabilidadefinanceira/fechamentodolar - cotação oficial divulgada após 13h\n• BCB Conversor - euro comercial e turismo\n• Seu banco/corretora - spread comercial vs turismo varia\n\nMe envie print ou link da cotação que valido na hora e te devolvo comercial, turismo e PTAX com lastro.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtcc68cg_b4_0",
+      "message_id": "msg_ses_mobile_mtcc68cg_b4_0",
+      "session_id": "ses_mobile_mtcc68cg_b4",
+      "time_created": 1787884351242,
+      "data": {
+        "type": "text",
+        "text": "Qual a cotação do euro hj"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcc68cg_b4_1",
+      "message_id": "msg_ses_mobile_mtcc68cg_b4_1",
+      "session_id": "ses_mobile_mtcc68cg_b4",
+      "time_created": 1787884351243,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Euro hoje - 28/08/2026**\n\nSem bloco SearXNG injetado neste turno, decreto incerteza sobre valor exato ao vivo. Sem lastro BCB em tempo real não informo número para não alucinar.\n\nOnde conferir com lastro oficial agora:\n\n• BCB PTAX - bcb.gov.br/estabilidadefinanceira/fechamentodolar - cotação oficial divulgada após 13h\n• BCB Conversor - euro comercial e turismo\n• Seu banco/corretora - spread comercial vs turismo varia\n\nMe envie print ou link da cotação que valido na hora e te devolvo comercial, turismo e PTAX com lastro.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:32:31.242Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
