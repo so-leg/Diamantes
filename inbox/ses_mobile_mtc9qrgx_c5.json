@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtc9qrgx_c5",
+    "title": "Me dê o top 2 novidade da jovem pam",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787880266550
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtc9qrgx_c5_0",
+      "time_created": 1787880266550,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Me dê o top 2 novidade da jovem pam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc9qrgx_c5_1",
+      "time_created": 1787880266551,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Jovem Pan - Top 2 em tempo real**\n\nSem bloco web injetado neste turno, não tenho lastro ao vivo para listar as 2 manchetes atuais sem risco de alucinação. Decreto incerteza para tempo real.\n\nMeu SearXNG open source em 192.168.0.8:8080 injeta o conteúdo automaticamente quando detecta URL ou intenção de busca. Neste envio não veio o bloco [Conteúdo de https://...] da Jovem Pan.\n\nPara te entregar agora com precisão:\n\n• Acesse o oficial jovempan.com.br e cole aqui o link da matéria\n• Ou me envie print/texto das 2 notícias que quer resumir\n• Ou reenvie como \"site oficial jovem pan jovempan.com.br\" para forçar nova injeção\n\nAssim que colar, resumo as 2 principais em formato mobile limpo na hora.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtc9qrgx_c5_0",
+      "message_id": "msg_ses_mobile_mtc9qrgx_c5_0",
+      "session_id": "ses_mobile_mtc9qrgx_c5",
+      "time_created": 1787880266550,
+      "data": {
+        "type": "text",
+        "text": "Me dê o top 2 novidade da jovem pam"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc9qrgx_c5_1",
+      "message_id": "msg_ses_mobile_mtc9qrgx_c5_1",
+      "session_id": "ses_mobile_mtc9qrgx_c5",
+      "time_created": 1787880266551,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Jovem Pan - Top 2 em tempo real**\n\nSem bloco web injetado neste turno, não tenho lastro ao vivo para listar as 2 manchetes atuais sem risco de alucinação. Decreto incerteza para tempo real.\n\nMeu SearXNG open source em 192.168.0.8:8080 injeta o conteúdo automaticamente quando detecta URL ou intenção de busca. Neste envio não veio o bloco [Conteúdo de https://...] da Jovem Pan.\n\nPara te entregar agora com precisão:\n\n• Acesse o oficial jovempan.com.br e cole aqui o link da matéria\n• Ou me envie print/texto das 2 notícias que quer resumir\n• Ou reenvie como \"site oficial jovem pan jovempan.com.br\" para forçar nova injeção\n\nAssim que colar, resumo as 2 principais em formato mobile limpo na hora.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T01:24:26.550Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
