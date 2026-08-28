@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtcb4u8l_7c",
+    "title": "Relate um resumo do canal biticonheiros ",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787882621244
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtcb4u8l_7c_0",
+      "time_created": 1787882621244,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Relate um resumo do canal biticonheiros no YouTube, recentemente"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcb4u8l_7c_1",
+      "time_created": 1787882621245,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Resumo Canal Biticonheiros - Solicitação Mobile**\n\nTentei buscar via SearXNG open source (192.168.0.8:8080) mas nenhum bloco [Conteúdo Web] foi injetado neste turno. Sem lastro web ao vivo, decreto incerteza sobre vídeos recentes para não alucinar.\n\nO Biticonheiros é canal focado em Bitcoin e autocustódia, com abordagem maximalista e educacional. Conteúdo histórico gira em torno de fundamentos do BTC, segurança e crítica ao sistema fiduciário.\n\nPadrão editorial do canal costuma ser:\n• análises de preço e on-chain do Bitcoin\n• tutoriais de carteira fria e autocustódia\n• cortes de podcasts e entrevistas\n• educação sobre inflação e sistema financeiro\n• notícias do ecossistema cripto\n\nPara te entregar resumo fiel dos últimos vídeos, cole aqui o link do canal/vídeo ou o texto da página. Com o conteúdo injetado eu resumo na hora em formato mobile limpo.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtcb4u8l_7c_0",
+      "message_id": "msg_ses_mobile_mtcb4u8l_7c_0",
+      "session_id": "ses_mobile_mtcb4u8l_7c",
+      "time_created": 1787882621244,
+      "data": {
+        "type": "text",
+        "text": "Relate um resumo do canal biticonheiros no YouTube, recentemente"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcb4u8l_7c_1",
+      "message_id": "msg_ses_mobile_mtcb4u8l_7c_1",
+      "session_id": "ses_mobile_mtcb4u8l_7c",
+      "time_created": 1787882621245,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Resumo Canal Biticonheiros - Solicitação Mobile**\n\nTentei buscar via SearXNG open source (192.168.0.8:8080) mas nenhum bloco [Conteúdo Web] foi injetado neste turno. Sem lastro web ao vivo, decreto incerteza sobre vídeos recentes para não alucinar.\n\nO Biticonheiros é canal focado em Bitcoin e autocustódia, com abordagem maximalista e educacional. Conteúdo histórico gira em torno de fundamentos do BTC, segurança e crítica ao sistema fiduciário.\n\nPadrão editorial do canal costuma ser:\n• análises de preço e on-chain do Bitcoin\n• tutoriais de carteira fria e autocustódia\n• cortes de podcasts e entrevistas\n• educação sobre inflação e sistema financeiro\n• notícias do ecossistema cripto\n\nPara te entregar resumo fiel dos últimos vídeos, cole aqui o link do canal/vídeo ou o texto da página. Com o conteúdo injetado eu resumo na hora em formato mobile limpo.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:03:41.244Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
