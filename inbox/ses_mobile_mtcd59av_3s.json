@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtcd59av_3s",
+    "title": "Qual cotação do euro hj",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787885980107
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtcd59av_3s_0",
+      "time_created": 1787885980107,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual cotação do euro hj\n\n[WebSearch: Qual cotação do euro hj — auto 223 chars]\n[Cotação AwesomeAPI: EUR-BRL]\nEuro/Real Brasileiro — Compra: R$ 6.0131 Venda: R$ 6.0151 Variação: 0.29857% Alta: 6.028 Baixa: 5.9952 2026-08-27 23:56:05\n[Fonte: economia.awesomeapi.com.br — PTAX BCB]\n\n[Ref GBPBRL]: 7.01393 \n[Fim WebSearch]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtcd59av_3s_1",
+      "time_created": 1787885980108,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Euro hoje 28/08/2026 - referência BCB**\n\nCotação Euro/Real do último fechamento disponível em 27/08 às 23:56, via AwesomeAPI com lastro PTAX BCB:\n\n• Compra: R$ 6,0131\n• Venda: R$ 6,0151\n• Variação: +0,29%\n• Máxima do dia: R$ 6,028 / Mínima: R$ 5,9952\n\nEsse valor vale como fechamento até atualização do BCB de hoje à noite. Para câmbio turismo e cartão, considere spread de 2% a 5% acima do comercial.\n\nFonte: economia.awesomeapi.com.br\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtcd59av_3s_0",
+      "message_id": "msg_ses_mobile_mtcd59av_3s_0",
+      "session_id": "ses_mobile_mtcd59av_3s",
+      "time_created": 1787885980107,
+      "data": {
+        "type": "text",
+        "text": "Qual cotação do euro hj\n\n[WebSearch: Qual cotação do euro hj — auto 223 chars]\n[Cotação AwesomeAPI: EUR-BRL]\nEuro/Real Brasileiro — Compra: R$ 6.0131 Venda: R$ 6.0151 Variação: 0.29857% Alta: 6.028 Baixa: 5.9952 2026-08-27 23:56:05\n[Fonte: economia.awesomeapi.com.br — PTAX BCB]\n\n[Ref GBPBRL]: 7.01393 \n[Fim WebSearch]"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtcd59av_3s_1",
+      "message_id": "msg_ses_mobile_mtcd59av_3s_1",
+      "session_id": "ses_mobile_mtcd59av_3s",
+      "time_created": 1787885980108,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Euro hoje 28/08/2026 - referência BCB**\n\nCotação Euro/Real do último fechamento disponível em 27/08 às 23:56, via AwesomeAPI com lastro PTAX BCB:\n\n• Compra: R$ 6,0131\n• Venda: R$ 6,0151\n• Variação: +0,29%\n• Máxima do dia: R$ 6,028 / Mínima: R$ 5,9952\n\nEsse valor vale como fechamento até atualização do BCB de hoje à noite. Para câmbio turismo e cartão, considere spread de 2% a 5% acima do comercial.\n\nFonte: economia.awesomeapi.com.br\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:59:40.108Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
