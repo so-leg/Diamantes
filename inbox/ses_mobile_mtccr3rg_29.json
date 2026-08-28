@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtccr3rg_29",
+    "title": "Qual o valor da libra hj",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787885323006
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtccr3rg_29_0",
+      "time_created": 1787885323006,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual o valor da libra hj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtccr3rg_29_1",
+      "time_created": 1787885323007,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Libra Esterlina hoje - 28/08/2026**\n\nSem bloco SearXNG/BCB injetado neste turno, não valido cotação em tempo real sem lastro. Decreto incerteza para não alucinar valor.\n\nPara pegar o valor oficial agora:\n\n• Consulte PTAX BCB: bcb.gov.br - cotação de fechamento e parcial do dia\n• No mercado comercial/turismo o GBP/BRL costuma variar com spread da corretora\n\nMe envie print ou link da cotação que você está vendo que eu valido na hora e já calculo conversão com spread e IOF se precisar.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtccr3rg_29_0",
+      "message_id": "msg_ses_mobile_mtccr3rg_29_0",
+      "session_id": "ses_mobile_mtccr3rg_29",
+      "time_created": 1787885323006,
+      "data": {
+        "type": "text",
+        "text": "Qual o valor da libra hj"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtccr3rg_29_1",
+      "message_id": "msg_ses_mobile_mtccr3rg_29_1",
+      "session_id": "ses_mobile_mtccr3rg_29",
+      "time_created": 1787885323007,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Libra Esterlina hoje - 28/08/2026**\n\nSem bloco SearXNG/BCB injetado neste turno, não valido cotação em tempo real sem lastro. Decreto incerteza para não alucinar valor.\n\nPara pegar o valor oficial agora:\n\n• Consulte PTAX BCB: bcb.gov.br - cotação de fechamento e parcial do dia\n• No mercado comercial/turismo o GBP/BRL costuma variar com spread da corretora\n\nMe envie print ou link da cotação que você está vendo que eu valido na hora e já calculo conversão com spread e IOF se precisar.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:48:43.006Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
