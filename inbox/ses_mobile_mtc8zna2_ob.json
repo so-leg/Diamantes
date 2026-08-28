@@ -3,12 +3,12 @@
     "id": "ses_mobile_mtc8zna2_ob",
     "title": "Acesse a jovem pan e me relate o top 5 n",
     "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
-    "time_created": 1787879054557
+    "time_created": 1787879493693
   },
   "messages": [
     {
       "id": "msg_ses_mobile_mtc8zna2_ob_0",
-      "time_created": 1787879054557,
+      "time_created": 1787879493693,
       "data": {
         "role": "user",
         "content": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc8zna2_ob_1",
-      "time_created": 1787879054558,
+      "time_created": 1787879493694,
       "data": {
         "role": "assistant",
         "content": [
@@ -34,7 +34,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc8zna2_ob_2",
-      "time_created": 1787879054559,
+      "time_created": 1787879493695,
       "data": {
         "role": "user",
         "content": [
@@ -47,13 +47,39 @@
     },
     {
       "id": "msg_ses_mobile_mtc8zna2_ob_3",
-      "time_created": 1787879054560,
+      "time_created": 1787879493696,
       "data": {
         "role": "assistant",
         "content": [
           {
             "type": "text",
             "text": "🧠 [Mente Ativa: Perito]\n\n**Tentativa Jovem Pan executada**\n\nFiz nova tentativa via SearXNG open source em 192.168.0.8:8080 buscando Jovem Pan, mas o app não injetou nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] neste turno.\n\nSem lastro real não gero top 5 para não alucinar. Decreto incerteza por falta de dado injetado.\n\nPara entregar na hora, cole aqui o link direto da matéria ou o texto da página que eu resumo o top 5 em formato mobile limpo.\n\nSe quiser, tente enviar \"site oficial jovem pan notícias\" novamente para forçar nova injeção do SearXNG.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc8zna2_ob_4",
+      "time_created": 1787879493697,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tente de novo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc8zna2_ob_5",
+      "time_created": 1787879493698,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Nova tentativa Jovem Pan executada**\n\nFiz nova busca via SearXNG open source em 192.168.0.8:8080, mas o app não injetou nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] neste turno.\n\nSem lastro real não gero top 5 para não alucinar. Decreto incerteza por falta de dado injetado.\n\nPara entregar na hora, cole aqui o link direto da Jovem Pan ou o texto da página que eu resumo o top 5 em formato mobile limpo.\n\n🐙 [Status: Validado]"
           }
         ]
       }
@@ -64,7 +90,7 @@
       "id": "part_ses_mobile_mtc8zna2_ob_0",
       "message_id": "msg_ses_mobile_mtc8zna2_ob_0",
       "session_id": "ses_mobile_mtc8zna2_ob",
-      "time_created": 1787879054557,
+      "time_created": 1787879493693,
       "data": {
         "type": "text",
         "text": "Acesse a jovem pan e me relate o top 5 novidade"
@@ -74,7 +100,7 @@
       "id": "part_ses_mobile_mtc8zna2_ob_1",
       "message_id": "msg_ses_mobile_mtc8zna2_ob_1",
       "session_id": "ses_mobile_mtc8zna2_ob",
-      "time_created": 1787879054558,
+      "time_created": 1787879493694,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Acesso Jovem Pan - tentativa sem retorno**\n\nTentei buscar via SearXNG mas nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] foi injetado pelo app neste turno. Sem lastro real não gero top 5 para não alucinar.\n\nPara te entregar com precisão, cole aqui o link direto da Jovem Pan ou o texto da página e eu resumo o top 5 na hora em formato mobile limpo.\n\nSe preferir, me avise para tentar nova injeção via SearXNG open source em 192.168.0.8:8080.\n\n🐙 [Status: Validado]"
@@ -84,7 +110,7 @@
       "id": "part_ses_mobile_mtc8zna2_ob_2",
       "message_id": "msg_ses_mobile_mtc8zna2_ob_2",
       "session_id": "ses_mobile_mtc8zna2_ob",
-      "time_created": 1787879054559,
+      "time_created": 1787879493695,
       "data": {
         "type": "text",
         "text": "Tente"
@@ -94,16 +120,36 @@
       "id": "part_ses_mobile_mtc8zna2_ob_3",
       "message_id": "msg_ses_mobile_mtc8zna2_ob_3",
       "session_id": "ses_mobile_mtc8zna2_ob",
-      "time_created": 1787879054560,
+      "time_created": 1787879493696,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Tentativa Jovem Pan executada**\n\nFiz nova tentativa via SearXNG open source em 192.168.0.8:8080 buscando Jovem Pan, mas o app não injetou nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] neste turno.\n\nSem lastro real não gero top 5 para não alucinar. Decreto incerteza por falta de dado injetado.\n\nPara entregar na hora, cole aqui o link direto da matéria ou o texto da página que eu resumo o top 5 em formato mobile limpo.\n\nSe quiser, tente enviar \"site oficial jovem pan notícias\" novamente para forçar nova injeção do SearXNG.\n\n🐙 [Status: Validado]"
       }
+    },
+    {
+      "id": "part_ses_mobile_mtc8zna2_ob_4",
+      "message_id": "msg_ses_mobile_mtc8zna2_ob_4",
+      "session_id": "ses_mobile_mtc8zna2_ob",
+      "time_created": 1787879493697,
+      "data": {
+        "type": "text",
+        "text": "Tente de novo"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc8zna2_ob_5",
+      "message_id": "msg_ses_mobile_mtc8zna2_ob_5",
+      "session_id": "ses_mobile_mtc8zna2_ob",
+      "time_created": 1787879493698,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Nova tentativa Jovem Pan executada**\n\nFiz nova busca via SearXNG open source em 192.168.0.8:8080, mas o app não injetou nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] neste turno.\n\nSem lastro real não gero top 5 para não alucinar. Decreto incerteza por falta de dado injetado.\n\nPara entregar na hora, cole aqui o link direto da Jovem Pan ou o texto da página que eu resumo o top 5 em formato mobile limpo.\n\n🐙 [Status: Validado]"
+      }
     }
   ],
-  "exported_at": "2026-08-28T01:04:14.557Z",
+  "exported_at": "2026-08-28T01:11:33.694Z",
   "counts": {
-    "messages": 4,
-    "parts": 4
+    "messages": 6,
+    "parts": 6
   }
 }
