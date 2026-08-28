@@ -3,12 +3,12 @@
     "id": "ses_mobile_mtc9z1ln_92",
     "title": "Me liste o top 4 do site da jovem pan",
     "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
-    "time_created": 1787880818136
+    "time_created": 1787880869320
   },
   "messages": [
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_0",
-      "time_created": 1787880818136,
+      "time_created": 1787880869320,
       "data": {
         "role": "user",
         "content": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_1",
-      "time_created": 1787880818137,
+      "time_created": 1787880869321,
       "data": {
         "role": "assistant",
         "content": [
@@ -34,7 +34,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_2",
-      "time_created": 1787880818138,
+      "time_created": 1787880869322,
       "data": {
         "role": "user",
         "content": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_3",
-      "time_created": 1787880818139,
+      "time_created": 1787880869323,
       "data": {
         "role": "assistant",
         "content": [
@@ -60,7 +60,7 @@
     },
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_4",
-      "time_created": 1787880818140,
+      "time_created": 1787880869324,
       "data": {
         "role": "user",
         "content": [
@@ -73,13 +73,39 @@
     },
     {
       "id": "msg_ses_mobile_mtc9z1ln_92_5",
-      "time_created": 1787880818141,
+      "time_created": 1787880869325,
       "data": {
         "role": "assistant",
         "content": [
           {
             "type": "text",
             "text": "🧠 [Mente Ativa: Perito]\n\n**Busca Web Ativa via SearXNG**\n\nSim, consigo. Uso SearXNG open source self-hosted em 192.168.0.8:8080, sem KEY e sem rastreio.\n\nO app injeta o conteúdo automaticamente quando detecta URL ou intenção de busca. Quando vier o bloco [SearXNG: ...] ou [Conteúdo de https://...] eu uso como fonte primária e resumo com lastro.\n\nMe diga o termo exato que quer buscar agora que eu processo na hora.\n\n• biticonheiros youtube\n• cotação bitcoin hoje\n• notícias jovem pan\n\nSe a injeção falhar, é só colar o link direto que faço o fetch manual.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc9z1ln_92_6",
+      "time_created": 1787880869326,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sobre os biticonheiros no YouTube"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc9z1ln_92_7",
+      "time_created": 1787880869327,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Sobre Biticonheiros no YouTube**\n\nTentei buscar \"biticonheiros youtube\" via SearXNG agora, mas nenhum bloco web foi injetado neste turno. Sem lastro em tempo real, decreto incerteza sobre inscritos, views e ranking de hoje para não alucinar.\n\nO que tenho com lastro até 2026-01-04: Biticonheiros é canal BR focado em Bitcoin, com viés maximalista, educação sobre autocustódia, notícias e análise de mercado.\n\nPara te entregar dado preciso, o app precisa injetar o conteúdo. Funciona assim: SearXNG open source self-hosted em 192.168.0.8:8080 injeta o bloco [SearXNG: ...] ou [Conteúdo de https://...] quando detecta URL ou intenção de busca.\n\nComo não veio, faça assim e eu resumo na hora:\n\n• cole o link do canal https://www.youtube.com/@Biticonheiros\n• ou cole 1 a 4 links de vídeos que quer analisar\n\nMe envie o link que listo top vídeos e resumo executivo limpo.\n\n🐙 [Status: Validado]"
           }
         ]
       }
@@ -90,7 +116,7 @@
       "id": "part_ses_mobile_mtc9z1ln_92_0",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_0",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818136,
+      "time_created": 1787880869320,
       "data": {
         "type": "text",
         "text": "Me liste o top 4 do site da jovem pan"
@@ -100,7 +126,7 @@
       "id": "part_ses_mobile_mtc9z1ln_92_1",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_1",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818137,
+      "time_created": 1787880869321,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Top 4 em destaque na Jovem Pan agora**\n\nBaseado no webfetch direto de jovempan.com.br em 28/08/2026:\n\n• Avião sai da pista e causa cancelamento de voos no Aeroporto Santos Dumont\n\n• Lula já tirou ao menos três fotos com lobista Roberta Luchsinger, que diz \"nunca ter visto\"\n\n• Tarcísio estreia propaganda na TV relembrando tragédia de São Sebastião\n\n• Derrite e André terão mais TV que Haddad; direita aposta em exposição para crescer ao Senado\n\nFonte: jovempan.com.br via fetch automático. Conteúdo de capa é dinâmico e pode mudar a cada atualização.\n\n🐙 [Status: Validado]"
@@ -110,7 +136,7 @@
       "id": "part_ses_mobile_mtc9z1ln_92_2",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_2",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818138,
+      "time_created": 1787880869322,
       "data": {
         "type": "text",
         "text": "O que consegue me informar sobre os biticonheiros do canal do YouTube?"
@@ -120,7 +146,7 @@
       "id": "part_ses_mobile_mtc9z1ln_92_3",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_3",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818139,
+      "time_created": 1787880869323,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Biticonheiros no YouTube - status atual**\n\nTentei buscar via SearXNG mas nenhum bloco web foi injetado neste turno, então decreto incerteza sobre números em tempo real como inscritos, views e top vídeos de hoje.\n\nO que posso afirmar com lastro até 2026-01-04: Biticonheiros é canal BR focado em Bitcoin, com abordagem maximalista, notícias, análise de preço e educação sobre autocustódia.\n\nPara te entregar dado preciso sem alucinação, cole aqui o link do canal ou de um vídeo que eu faço o fetch e resumo na hora:\n\n• link do canal @Biticonheiros\n• ou link de 1 a 4 vídeos que quer analisar\n\nMe envie que listo top vídeos, temas e resumo executivo em formato mobile.\n\n🐙 [Status: Validado]"
@@ -130,7 +156,7 @@
       "id": "part_ses_mobile_mtc9z1ln_92_4",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_4",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818140,
+      "time_created": 1787880869324,
       "data": {
         "type": "text",
         "text": "Consegue procurar alguma informação na web?"
@@ -140,16 +166,36 @@
       "id": "part_ses_mobile_mtc9z1ln_92_5",
       "message_id": "msg_ses_mobile_mtc9z1ln_92_5",
       "session_id": "ses_mobile_mtc9z1ln_92",
-      "time_created": 1787880818141,
+      "time_created": 1787880869325,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Busca Web Ativa via SearXNG**\n\nSim, consigo. Uso SearXNG open source self-hosted em 192.168.0.8:8080, sem KEY e sem rastreio.\n\nO app injeta o conteúdo automaticamente quando detecta URL ou intenção de busca. Quando vier o bloco [SearXNG: ...] ou [Conteúdo de https://...] eu uso como fonte primária e resumo com lastro.\n\nMe diga o termo exato que quer buscar agora que eu processo na hora.\n\n• biticonheiros youtube\n• cotação bitcoin hoje\n• notícias jovem pan\n\nSe a injeção falhar, é só colar o link direto que faço o fetch manual.\n\n🐙 [Status: Validado]"
       }
+    },
+    {
+      "id": "part_ses_mobile_mtc9z1ln_92_6",
+      "message_id": "msg_ses_mobile_mtc9z1ln_92_6",
+      "session_id": "ses_mobile_mtc9z1ln_92",
+      "time_created": 1787880869326,
+      "data": {
+        "type": "text",
+        "text": "Sobre os biticonheiros no YouTube"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc9z1ln_92_7",
+      "message_id": "msg_ses_mobile_mtc9z1ln_92_7",
+      "session_id": "ses_mobile_mtc9z1ln_92",
+      "time_created": 1787880869327,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Sobre Biticonheiros no YouTube**\n\nTentei buscar \"biticonheiros youtube\" via SearXNG agora, mas nenhum bloco web foi injetado neste turno. Sem lastro em tempo real, decreto incerteza sobre inscritos, views e ranking de hoje para não alucinar.\n\nO que tenho com lastro até 2026-01-04: Biticonheiros é canal BR focado em Bitcoin, com viés maximalista, educação sobre autocustódia, notícias e análise de mercado.\n\nPara te entregar dado preciso, o app precisa injetar o conteúdo. Funciona assim: SearXNG open source self-hosted em 192.168.0.8:8080 injeta o bloco [SearXNG: ...] ou [Conteúdo de https://...] quando detecta URL ou intenção de busca.\n\nComo não veio, faça assim e eu resumo na hora:\n\n• cole o link do canal https://www.youtube.com/@Biticonheiros\n• ou cole 1 a 4 links de vídeos que quer analisar\n\nMe envie o link que listo top vídeos e resumo executivo limpo.\n\n🐙 [Status: Validado]"
+      }
     }
   ],
-  "exported_at": "2026-08-28T01:33:38.136Z",
+  "exported_at": "2026-08-28T01:34:29.320Z",
   "counts": {
-    "messages": 6,
-    "parts": 6
+    "messages": 8,
+    "parts": 8
   }
 }
