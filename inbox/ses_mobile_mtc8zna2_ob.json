@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtc8zna2_ob",
+    "title": "Acesse a jovem pan e me relate o top 5 n",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787879007658
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtc8zna2_ob_0",
+      "time_created": 1787879007658,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acesse a jovem pan e me relate o top 5 novidade"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtc8zna2_ob_1",
+      "time_created": 1787879007659,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Acesso Jovem Pan - tentativa sem retorno**\n\nTentei buscar via SearXNG mas nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] foi injetado pelo app neste turno. Sem lastro real não gero top 5 para não alucinar.\n\nPara te entregar com precisão, cole aqui o link direto da Jovem Pan ou o texto da página e eu resumo o top 5 na hora em formato mobile limpo.\n\nSe preferir, me avise para tentar nova injeção via SearXNG open source em 192.168.0.8:8080.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtc8zna2_ob_0",
+      "message_id": "msg_ses_mobile_mtc8zna2_ob_0",
+      "session_id": "ses_mobile_mtc8zna2_ob",
+      "time_created": 1787879007658,
+      "data": {
+        "type": "text",
+        "text": "Acesse a jovem pan e me relate o top 5 novidade"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtc8zna2_ob_1",
+      "message_id": "msg_ses_mobile_mtc8zna2_ob_1",
+      "session_id": "ses_mobile_mtc8zna2_ob",
+      "time_created": 1787879007659,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Acesso Jovem Pan - tentativa sem retorno**\n\nTentei buscar via SearXNG mas nenhum bloco [Conteúdo de https://jovempan.com.br — auto webfetch] foi injetado pelo app neste turno. Sem lastro real não gero top 5 para não alucinar.\n\nPara te entregar com precisão, cole aqui o link direto da Jovem Pan ou o texto da página e eu resumo o top 5 na hora em formato mobile limpo.\n\nSe preferir, me avise para tentar nova injeção via SearXNG open source em 192.168.0.8:8080.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T01:03:27.658Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
