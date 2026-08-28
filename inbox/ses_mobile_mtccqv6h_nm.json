@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtccqv6h_nm",
+    "title": "Qual o valor da libra hj",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1787885312542
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtccqv6h_nm_0",
+      "time_created": 1787885312542,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual o valor da libra hj\n\n[WebSearch: Qual o valor da libra hj — auto 405 chars]\n[DuckDuckGo: Qual o valor da libra hj]\n1. Libra Esterlina hoje: confira a cotação em tempo real do Libra ... - Wise — \n2. Libra Hoje - Cotação em Tempo Real - InfoMoney — \n3. Libra esterlina para Real brasileiro - Wise — \n4. Libra Hoje: Cotação Comercial. Valor e Preço! — \n5. Cotação do Libra (LIBRA) Hoje, Histórico e Valor em Reais - Investidor10 — \n[Fonte: DuckDuckGo via proxy.cors.sh — independente]\n[Fim WebSearch]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtccqv6h_nm_1",
+      "time_created": 1787885312543,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Libra Esterlina hoje - 28/08/2026**\nTentei buscar via SearXNG/DuckDuckGo mas o retorno veio sem valor numérico no payload, apenas links para Wise e InfoMoney. Sem dado em tempo real no bloco, decreto incerteza para não alucinar valor.\n\nA Libra (GBP/BRL) varia ao longo do dia entre comercial e turismo. Para operação, vale sempre o PTAX do BCB + spread da instituição.\n\n**Onde conferir com lastro oficial agora**\n• BCB - PTAX oficial: bcb.gov.br/estabilidadefinanceira/fechamentodolar\n• Wise - comercial em tempo real\n• InfoMoney - cotação comercial\n\nSe quiser, cole o link da Wise/BCB aqui que eu extraio o valor exato na hora para você.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtccqv6h_nm_0",
+      "message_id": "msg_ses_mobile_mtccqv6h_nm_0",
+      "session_id": "ses_mobile_mtccqv6h_nm",
+      "time_created": 1787885312542,
+      "data": {
+        "type": "text",
+        "text": "Qual o valor da libra hj\n\n[WebSearch: Qual o valor da libra hj — auto 405 chars]\n[DuckDuckGo: Qual o valor da libra hj]\n1. Libra Esterlina hoje: confira a cotação em tempo real do Libra ... - Wise — \n2. Libra Hoje - Cotação em Tempo Real - InfoMoney — \n3. Libra esterlina para Real brasileiro - Wise — \n4. Libra Hoje: Cotação Comercial. Valor e Preço! — \n5. Cotação do Libra (LIBRA) Hoje, Histórico e Valor em Reais - Investidor10 — \n[Fonte: DuckDuckGo via proxy.cors.sh — independente]\n[Fim WebSearch]"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtccqv6h_nm_1",
+      "message_id": "msg_ses_mobile_mtccqv6h_nm_1",
+      "session_id": "ses_mobile_mtccqv6h_nm",
+      "time_created": 1787885312543,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Cotação Libra Esterlina hoje - 28/08/2026**\nTentei buscar via SearXNG/DuckDuckGo mas o retorno veio sem valor numérico no payload, apenas links para Wise e InfoMoney. Sem dado em tempo real no bloco, decreto incerteza para não alucinar valor.\n\nA Libra (GBP/BRL) varia ao longo do dia entre comercial e turismo. Para operação, vale sempre o PTAX do BCB + spread da instituição.\n\n**Onde conferir com lastro oficial agora**\n• BCB - PTAX oficial: bcb.gov.br/estabilidadefinanceira/fechamentodolar\n• Wise - comercial em tempo real\n• InfoMoney - cotação comercial\n\nSe quiser, cole o link da Wise/BCB aqui que eu extraio o valor exato na hora para você.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-08-28T02:48:32.542Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
