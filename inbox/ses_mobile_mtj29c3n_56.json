@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtj29c3n_56",
+    "title": "Como faço pra colocar o botão digital de",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1788290966346
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtj29c3n_56_0",
+      "time_created": 1788290966346,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Como faço pra colocar o botão digital de acessibilidade no iPhone 6s resetado"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtj29c3n_56_1",
+      "time_created": 1788290966347,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Botão virtual do iPhone 6s é o AssistiveTouch**\nÉ a bolinha cinza que simula o botão Home, ideal se o botão físico falhou ou após reset.\n\nSe o iPhone ainda está na tela de Olá, finalize a configuração inicial com Wi-Fi e ID Apple primeiro. O AssistiveTouch só aparece após entrar no sistema.\n\n**Passo a passo no iPhone 6s já resetado**\n\n• Ajustes > Acessibilidade > Toque\n• Toque em AssistiveTouch\n• Ative a chave AssistiveTouch\n• A bolinha vai aparecer na tela, arraste para onde quiser\n• Toque nela para acessar Home, Siri, Central de Controle e Gestos\n\n**Atalho se o botão Home não funciona**\n\n• Peça para Siri: \"Ativar AssistiveTouch\"\n• Ou configure: Ajustes > Acessibilidade > Atalho de Acessibilidade > marque AssistiveTouch, depois 3 cliques no botão Home ativam\n• Para personalizar o menu, volte em AssistiveTouch > Personalizar Menu Principal\n\nPronto. Deixe ativado para usar o iPhone sem depender do botão físico.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtj29c3n_56_0",
+      "message_id": "msg_ses_mobile_mtj29c3n_56_0",
+      "session_id": "ses_mobile_mtj29c3n_56",
+      "time_created": 1788290966346,
+      "data": {
+        "type": "text",
+        "text": "Como faço pra colocar o botão digital de acessibilidade no iPhone 6s resetado"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtj29c3n_56_1",
+      "message_id": "msg_ses_mobile_mtj29c3n_56_1",
+      "session_id": "ses_mobile_mtj29c3n_56",
+      "time_created": 1788290966347,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Botão virtual do iPhone 6s é o AssistiveTouch**\nÉ a bolinha cinza que simula o botão Home, ideal se o botão físico falhou ou após reset.\n\nSe o iPhone ainda está na tela de Olá, finalize a configuração inicial com Wi-Fi e ID Apple primeiro. O AssistiveTouch só aparece após entrar no sistema.\n\n**Passo a passo no iPhone 6s já resetado**\n\n• Ajustes > Acessibilidade > Toque\n• Toque em AssistiveTouch\n• Ative a chave AssistiveTouch\n• A bolinha vai aparecer na tela, arraste para onde quiser\n• Toque nela para acessar Home, Siri, Central de Controle e Gestos\n\n**Atalho se o botão Home não funciona**\n\n• Peça para Siri: \"Ativar AssistiveTouch\"\n• Ou configure: Ajustes > Acessibilidade > Atalho de Acessibilidade > marque AssistiveTouch, depois 3 cliques no botão Home ativam\n• Para personalizar o menu, volte em AssistiveTouch > Personalizar Menu Principal\n\nPronto. Deixe ativado para usar o iPhone sem depender do botão físico.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-09-01T19:29:26.346Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
