@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtinqwy2_tm",
+    "title": "Se eu pedir CPF na nota fiscal, pra onde",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1788266591619
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtinqwy2_tm_0",
+      "time_created": 1788266591619,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Se eu pedir CPF na nota fiscal, pra onde vai e quem usa essas informações?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtinqwy2_tm_1",
+      "time_created": 1788266591620,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Para onde vai seu CPF na nota**\n\nQuando você informa o CPF, o estabelecimento emite a NF-e / NFC-e e transmite automaticamente para a SEFAZ do seu estado. De lá, a informação é compartilhada com a Receita Federal.\n\nFica armazenado no banco de dados fiscal do governo, vinculado ao seu CPF. Não fica só na loja.\n\n**Quem tem acesso e usa**\n\n• Fisco Estadual e Receita Federal: para cruzar sua renda declarada com seus gastos e combater sonegação de imposto da empresa\n• Programas estaduais: Nota Fiscal Paulista (SP), Nota Fiscal Gaúcha, etc. Usam para gerar créditos de ICMS, cashback e sorteios\n• A própria empresa: comprova a venda e evita multa\n\nO governo não vende seus dados. O uso é fiscal, com lastro na legislação tributária e na LGPD.\n\n**Benefício real para você**\n\nVocê acumula créditos para abater IPVA/IPTU ou receber em conta, participa de sorteios e cria um histórico oficial de compras. Ajuda também a provar renda e compras em caso de garantia ou IR.\n\n**Risco que existe**\n\nA loja sabe o que você comprou, quando e onde. Se o sistema dela vazar, seu CPF + padrão de consumo podem ser expostos. Por isso golpistas usam CPF vazado para tentar fraude.\n\nNão aumenta seu score de crédito diretamente, mas bancos e fintechs podem pedir seu consentimento para consultar notas fiscais como comprovante de renda.\n\nNa prática: é seguro informar em redes grandes e confiáveis. Em comércio desconhecido ou que anota CPF manualmente, melhor não informar.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtinqwy2_tm_0",
+      "message_id": "msg_ses_mobile_mtinqwy2_tm_0",
+      "session_id": "ses_mobile_mtinqwy2_tm",
+      "time_created": 1788266591619,
+      "data": {
+        "type": "text",
+        "text": "Se eu pedir CPF na nota fiscal, pra onde vai e quem usa essas informações?"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtinqwy2_tm_1",
+      "message_id": "msg_ses_mobile_mtinqwy2_tm_1",
+      "session_id": "ses_mobile_mtinqwy2_tm",
+      "time_created": 1788266591620,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Para onde vai seu CPF na nota**\n\nQuando você informa o CPF, o estabelecimento emite a NF-e / NFC-e e transmite automaticamente para a SEFAZ do seu estado. De lá, a informação é compartilhada com a Receita Federal.\n\nFica armazenado no banco de dados fiscal do governo, vinculado ao seu CPF. Não fica só na loja.\n\n**Quem tem acesso e usa**\n\n• Fisco Estadual e Receita Federal: para cruzar sua renda declarada com seus gastos e combater sonegação de imposto da empresa\n• Programas estaduais: Nota Fiscal Paulista (SP), Nota Fiscal Gaúcha, etc. Usam para gerar créditos de ICMS, cashback e sorteios\n• A própria empresa: comprova a venda e evita multa\n\nO governo não vende seus dados. O uso é fiscal, com lastro na legislação tributária e na LGPD.\n\n**Benefício real para você**\n\nVocê acumula créditos para abater IPVA/IPTU ou receber em conta, participa de sorteios e cria um histórico oficial de compras. Ajuda também a provar renda e compras em caso de garantia ou IR.\n\n**Risco que existe**\n\nA loja sabe o que você comprou, quando e onde. Se o sistema dela vazar, seu CPF + padrão de consumo podem ser expostos. Por isso golpistas usam CPF vazado para tentar fraude.\n\nNão aumenta seu score de crédito diretamente, mas bancos e fintechs podem pedir seu consentimento para consultar notas fiscais como comprovante de renda.\n\nNa prática: é seguro informar em redes grandes e confiáveis. Em comércio desconhecido ou que anota CPF manualmente, melhor não informar.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-09-01T12:43:11.620Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
