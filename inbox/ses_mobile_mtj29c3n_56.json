@@ -3,12 +3,12 @@
     "id": "ses_mobile_mtj29c3n_56",
     "title": "Como faço pra colocar o botão digital de",
     "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
-    "time_created": 1788291061177
+    "time_created": 1788291171952
   },
   "messages": [
     {
       "id": "msg_ses_mobile_mtj29c3n_56_0",
-      "time_created": 1788291061177,
+      "time_created": 1788291171952,
       "data": {
         "role": "user",
         "content": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "msg_ses_mobile_mtj29c3n_56_1",
-      "time_created": 1788291061178,
+      "time_created": 1788291171953,
       "data": {
         "role": "assistant",
         "content": [
@@ -34,7 +34,7 @@
     },
     {
       "id": "msg_ses_mobile_mtj29c3n_56_2",
-      "time_created": 1788291061179,
+      "time_created": 1788291171954,
       "data": {
         "role": "user",
         "content": [
@@ -47,13 +47,39 @@
     },
     {
       "id": "msg_ses_mobile_mtj29c3n_56_3",
-      "time_created": 1788291061180,
+      "time_created": 1788291171955,
       "data": {
         "role": "assistant",
         "content": [
           {
             "type": "text",
             "text": "🧠 [Mente Ativa: Perito]\n\n**Aviso essencial**\niPhone 6s resetado não liga o sistema sem ativar uma vez. Sem Wi-Fi ele trava na tela Olá. O AssistiveTouch só funciona depois de ativar.\n\n**Como ativar sem Wi-Fi - 2 opções**\n\n• Coloque um chip com dados móveis, ele ativa sozinho na configuração\n• Conecte via cabo Lightning no PC/Mac com iTunes, ele ativa sem precisar de Wi-Fi\n\nFez uma das duas, o iPhone entra na tela inicial. Depois disso pode ficar offline para sempre.\n\n**Como ligar o botão digital 100% offline**\nCom o iPhone já na tela inicial, sem internet:\n\n• Ajustes > Acessibilidade > Toque > AssistiveTouch\n• Ative a chave, a bolinha aparece na hora\n• Não precisa de Wi-Fi para isso, funciona offline\n\n**Para usar como hardware wallet offline**\nApós ativar o botão, faça isso e não conecte mais:\n\n• Ative Modo Avião\n• Em Ajustes > Wi-Fi e Bluetooth, deixe desligado\n• Pronto, o aparelho fica isolado e com botão virtual funcionando\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtj29c3n_56_4",
+      "time_created": 1788291171956,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Não posso colocar chip no iPhone, o que tenho e a conexão USB com meu pc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtj29c3n_56_5",
+      "time_created": 1788291171957,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Ativação via USB é a solução para você**\nDá para ativar o iPhone 6s resetado só com cabo Lightning no PC, sem chip e sem Wi-Fi no iPhone. O PC precisa estar com internet para validar com a Apple.\n\n**No Windows**\n• Baixe o iTunes oficial da Apple no site da Apple\n• Conecte o iPhone na tela Olá via USB\n• Toque em Confiar neste iPhone e clique em Continuar no iTunes\n• Aguarde o iTunes mostrar Ativar iPhone e concluir\n• O iPhone libera sozinho para a tela inicial\n\n**No Mac**\n• Conecte o iPhone via USB\n• Abra o Finder e selecione seu iPhone na lateral\n• Clique em Confiar e autorize no iPhone\n• Aguarde a ativação concluir\n\n**Para ligar o botão digital já offline**\n• Com o iPhone na tela inicial vá em Ajustes > Acessibilidade > Toque\n• Entre em AssistiveTouch e ative a chave\n• A bolinha aparece na hora e funciona sem internet\n\nDepois ative Modo Avião e deixe Wi-Fi e Bluetooth desligados. Pode desconectar do PC e usar como carteira offline.\n\n🐙 [Status: Validado]"
           }
         ]
       }
@@ -64,7 +90,7 @@
       "id": "part_ses_mobile_mtj29c3n_56_0",
       "message_id": "msg_ses_mobile_mtj29c3n_56_0",
       "session_id": "ses_mobile_mtj29c3n_56",
-      "time_created": 1788291061177,
+      "time_created": 1788291171952,
       "data": {
         "type": "text",
         "text": "Como faço pra colocar o botão digital de acessibilidade no iPhone 6s resetado"
@@ -74,7 +100,7 @@
       "id": "part_ses_mobile_mtj29c3n_56_1",
       "message_id": "msg_ses_mobile_mtj29c3n_56_1",
       "session_id": "ses_mobile_mtj29c3n_56",
-      "time_created": 1788291061178,
+      "time_created": 1788291171953,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Botão virtual do iPhone 6s é o AssistiveTouch**\nÉ a bolinha cinza que simula o botão Home, ideal se o botão físico falhou ou após reset.\n\nSe o iPhone ainda está na tela de Olá, finalize a configuração inicial com Wi-Fi e ID Apple primeiro. O AssistiveTouch só aparece após entrar no sistema.\n\n**Passo a passo no iPhone 6s já resetado**\n\n• Ajustes > Acessibilidade > Toque\n• Toque em AssistiveTouch\n• Ative a chave AssistiveTouch\n• A bolinha vai aparecer na tela, arraste para onde quiser\n• Toque nela para acessar Home, Siri, Central de Controle e Gestos\n\n**Atalho se o botão Home não funciona**\n\n• Peça para Siri: \"Ativar AssistiveTouch\"\n• Ou configure: Ajustes > Acessibilidade > Atalho de Acessibilidade > marque AssistiveTouch, depois 3 cliques no botão Home ativam\n• Para personalizar o menu, volte em AssistiveTouch > Personalizar Menu Principal\n\nPronto. Deixe ativado para usar o iPhone sem depender do botão físico.\n\n🐙 [Status: Validado]"
@@ -84,7 +110,7 @@
       "id": "part_ses_mobile_mtj29c3n_56_2",
       "message_id": "msg_ses_mobile_mtj29c3n_56_2",
       "session_id": "ses_mobile_mtj29c3n_56",
-      "time_created": 1788291061179,
+      "time_created": 1788291171954,
       "data": {
         "type": "text",
         "text": "Mas tem como fazer sem wi-fi, porque vou usar esse aparelho pra hardware wallet offline"
@@ -94,16 +120,36 @@
       "id": "part_ses_mobile_mtj29c3n_56_3",
       "message_id": "msg_ses_mobile_mtj29c3n_56_3",
       "session_id": "ses_mobile_mtj29c3n_56",
-      "time_created": 1788291061180,
+      "time_created": 1788291171955,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Aviso essencial**\niPhone 6s resetado não liga o sistema sem ativar uma vez. Sem Wi-Fi ele trava na tela Olá. O AssistiveTouch só funciona depois de ativar.\n\n**Como ativar sem Wi-Fi - 2 opções**\n\n• Coloque um chip com dados móveis, ele ativa sozinho na configuração\n• Conecte via cabo Lightning no PC/Mac com iTunes, ele ativa sem precisar de Wi-Fi\n\nFez uma das duas, o iPhone entra na tela inicial. Depois disso pode ficar offline para sempre.\n\n**Como ligar o botão digital 100% offline**\nCom o iPhone já na tela inicial, sem internet:\n\n• Ajustes > Acessibilidade > Toque > AssistiveTouch\n• Ative a chave, a bolinha aparece na hora\n• Não precisa de Wi-Fi para isso, funciona offline\n\n**Para usar como hardware wallet offline**\nApós ativar o botão, faça isso e não conecte mais:\n\n• Ative Modo Avião\n• Em Ajustes > Wi-Fi e Bluetooth, deixe desligado\n• Pronto, o aparelho fica isolado e com botão virtual funcionando\n\n🐙 [Status: Validado]"
       }
+    },
+    {
+      "id": "part_ses_mobile_mtj29c3n_56_4",
+      "message_id": "msg_ses_mobile_mtj29c3n_56_4",
+      "session_id": "ses_mobile_mtj29c3n_56",
+      "time_created": 1788291171956,
+      "data": {
+        "type": "text",
+        "text": "Não posso colocar chip no iPhone, o que tenho e a conexão USB com meu pc"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtj29c3n_56_5",
+      "message_id": "msg_ses_mobile_mtj29c3n_56_5",
+      "session_id": "ses_mobile_mtj29c3n_56",
+      "time_created": 1788291171957,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Ativação via USB é a solução para você**\nDá para ativar o iPhone 6s resetado só com cabo Lightning no PC, sem chip e sem Wi-Fi no iPhone. O PC precisa estar com internet para validar com a Apple.\n\n**No Windows**\n• Baixe o iTunes oficial da Apple no site da Apple\n• Conecte o iPhone na tela Olá via USB\n• Toque em Confiar neste iPhone e clique em Continuar no iTunes\n• Aguarde o iTunes mostrar Ativar iPhone e concluir\n• O iPhone libera sozinho para a tela inicial\n\n**No Mac**\n• Conecte o iPhone via USB\n• Abra o Finder e selecione seu iPhone na lateral\n• Clique em Confiar e autorize no iPhone\n• Aguarde a ativação concluir\n\n**Para ligar o botão digital já offline**\n• Com o iPhone na tela inicial vá em Ajustes > Acessibilidade > Toque\n• Entre em AssistiveTouch e ative a chave\n• A bolinha aparece na hora e funciona sem internet\n\nDepois ative Modo Avião e deixe Wi-Fi e Bluetooth desligados. Pode desconectar do PC e usar como carteira offline.\n\n🐙 [Status: Validado]"
+      }
     }
   ],
-  "exported_at": "2026-09-01T19:31:01.177Z",
+  "exported_at": "2026-09-01T19:32:51.953Z",
   "counts": {
-    "messages": 4,
-    "parts": 4
+    "messages": 6,
+    "parts": 6
   }
 }
