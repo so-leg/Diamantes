@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtkf3sqr_0u",
+    "title": "Porque não tem usdc morph na saúde sea",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1788373011309
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtkf3sqr_0u_0",
+      "time_created": 1788373011309,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Porque não tem usdc morph na saúde sea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtkf3sqr_0u_1",
+      "time_created": 1788373011310,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta**\nNão tem USDC Morpho na saúde/SEA porque o Morpho é permissionless. Ninguém criou/curou um vault/market de USDC nessa rede ainda.\n\nO Morpho não lista sozinho, depende de curador criar o mercado.\n\nMotivos mais comuns para não existir:\n\n• sem curador (Gauntlet, Steakhouse, etc) interessado em criar vault USDC nessa rede\n• falta de liquidez e demanda para USDC como colateral/dívida lá\n• sem oráculo Chainlink confiável para o par na rede SEA\n• risco/retorno baixo, curador prefere focar em Base/Ethereum\n\n**O que fazer**\nNa Base e Ethereum já existem vários vaults USDC Morpho Blue. Na SEA, se não tem, você pode criar o market você mesmo ou usar USDC em outra rede e fazer bridge.\n\nMe confirma: você está olhando a rede Base, Ethereum ou qual app/carteira? Te digo onde tem USDC Morpho ativo agora.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtkf3sqr_0u_0",
+      "message_id": "msg_ses_mobile_mtkf3sqr_0u_0",
+      "session_id": "ses_mobile_mtkf3sqr_0u",
+      "time_created": 1788373011309,
+      "data": {
+        "type": "text",
+        "text": "Porque não tem usdc morph na saúde sea"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtkf3sqr_0u_1",
+      "message_id": "msg_ses_mobile_mtkf3sqr_0u_1",
+      "session_id": "ses_mobile_mtkf3sqr_0u",
+      "time_created": 1788373011310,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Resposta direta**\nNão tem USDC Morpho na saúde/SEA porque o Morpho é permissionless. Ninguém criou/curou um vault/market de USDC nessa rede ainda.\n\nO Morpho não lista sozinho, depende de curador criar o mercado.\n\nMotivos mais comuns para não existir:\n\n• sem curador (Gauntlet, Steakhouse, etc) interessado em criar vault USDC nessa rede\n• falta de liquidez e demanda para USDC como colateral/dívida lá\n• sem oráculo Chainlink confiável para o par na rede SEA\n• risco/retorno baixo, curador prefere focar em Base/Ethereum\n\n**O que fazer**\nNa Base e Ethereum já existem vários vaults USDC Morpho Blue. Na SEA, se não tem, você pode criar o market você mesmo ou usar USDC em outra rede e fazer bridge.\n\nMe confirma: você está olhando a rede Base, Ethereum ou qual app/carteira? Te digo onde tem USDC Morpho ativo agora.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-09-02T18:16:51.309Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
