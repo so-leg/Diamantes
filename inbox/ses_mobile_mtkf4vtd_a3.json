@@ -3,12 +3,12 @@
     "id": "ses_mobile_mtkf4vtd_a3",
     "title": "Porque não tem usdc morph na sideswap.ai",
     "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
-    "time_created": 1788373056227
+    "time_created": 1788373220916
   },
   "messages": [
     {
       "id": "msg_ses_mobile_mtkf4vtd_a3_0",
-      "time_created": 1788373056227,
+      "time_created": 1788373220916,
       "data": {
         "role": "user",
         "content": [
@@ -21,13 +21,39 @@
     },
     {
       "id": "msg_ses_mobile_mtkf4vtd_a3_1",
-      "time_created": 1788373056228,
+      "time_created": 1788373220917,
       "data": {
         "role": "assistant",
         "content": [
           {
             "type": "text",
             "text": "🧠 [Mente Ativa: Perito]\n\n**Porque não existe USDC Morph nesses dois sites**\n\nSideswap.ai é exclusiva da Liquid Network. Ela só negocia ativos da rede Liquid como L-BTC e USDT-Liquid. Não tem integração com redes EVM como Morph, Ethereum ou BSC, então é incompatível por arquitetura.\n\nFixedFloat é um agregador não-custodial que só lista redes com alta liquidez e demanda. Morph é uma L2 muito nova da Ethereum, ainda com volume baixo e poucas integrações de bridge. Por isso ainda não foi listada lá.\n\n**O que é USDC Morph**\nÉ o USDC nativo dentro da rede Morph L2. Não é o USDC da Ethereum ou BSC. Para existir em uma exchange, a plataforma precisa integrar a rede Morph inteira, o que essas duas ainda não fizeram.\n\n**Como conseguir USDC Morph na prática**\n\n• Compre USDC em rede grande como ETH, Arbitrum ou BSC em qualquer corretora\n• Use o bridge oficial da Morph em bridge.morphl2.io ou agregadores como Owlto Finance / Orbiter Finance para enviar para a rede Morph\n• Dentro da Morph, use a DEX nativa BulbaSwap para trocas\n\nQuer que eu te passe o caminho mais barato agora para levar USDC para Morph sem pagar taxa alta de ETH?\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtkf4vtd_a3_2",
+      "time_created": 1788373220918,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Qual o link de bulbaswap?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtkf4vtd_a3_3",
+      "time_created": 1788373220919,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**Link oficial BulbaSwap**\n\nSite: https://bulbaswap.io\nApp direto: https://app.bulbaswap.io\n\nÉ a DEX nativa da rede Morph L2. Confirme sempre pelo ecossistema oficial em morphl2.io para evitar phishing.\n\nQuer que eu te mande o link do bridge oficial também para levar USDC pra Morph?\n\n🐙 [Status: Validado]"
           }
         ]
       }
@@ -38,7 +64,7 @@
       "id": "part_ses_mobile_mtkf4vtd_a3_0",
       "message_id": "msg_ses_mobile_mtkf4vtd_a3_0",
       "session_id": "ses_mobile_mtkf4vtd_a3",
-      "time_created": 1788373056227,
+      "time_created": 1788373220916,
       "data": {
         "type": "text",
         "text": "Porque não tem usdc morph na sideswap.ai ou fixedfloat?"
@@ -48,16 +74,36 @@
       "id": "part_ses_mobile_mtkf4vtd_a3_1",
       "message_id": "msg_ses_mobile_mtkf4vtd_a3_1",
       "session_id": "ses_mobile_mtkf4vtd_a3",
-      "time_created": 1788373056228,
+      "time_created": 1788373220917,
       "data": {
         "type": "text",
         "text": "🧠 [Mente Ativa: Perito]\n\n**Porque não existe USDC Morph nesses dois sites**\n\nSideswap.ai é exclusiva da Liquid Network. Ela só negocia ativos da rede Liquid como L-BTC e USDT-Liquid. Não tem integração com redes EVM como Morph, Ethereum ou BSC, então é incompatível por arquitetura.\n\nFixedFloat é um agregador não-custodial que só lista redes com alta liquidez e demanda. Morph é uma L2 muito nova da Ethereum, ainda com volume baixo e poucas integrações de bridge. Por isso ainda não foi listada lá.\n\n**O que é USDC Morph**\nÉ o USDC nativo dentro da rede Morph L2. Não é o USDC da Ethereum ou BSC. Para existir em uma exchange, a plataforma precisa integrar a rede Morph inteira, o que essas duas ainda não fizeram.\n\n**Como conseguir USDC Morph na prática**\n\n• Compre USDC em rede grande como ETH, Arbitrum ou BSC em qualquer corretora\n• Use o bridge oficial da Morph em bridge.morphl2.io ou agregadores como Owlto Finance / Orbiter Finance para enviar para a rede Morph\n• Dentro da Morph, use a DEX nativa BulbaSwap para trocas\n\nQuer que eu te passe o caminho mais barato agora para levar USDC para Morph sem pagar taxa alta de ETH?\n\n🐙 [Status: Validado]"
       }
+    },
+    {
+      "id": "part_ses_mobile_mtkf4vtd_a3_2",
+      "message_id": "msg_ses_mobile_mtkf4vtd_a3_2",
+      "session_id": "ses_mobile_mtkf4vtd_a3",
+      "time_created": 1788373220918,
+      "data": {
+        "type": "text",
+        "text": "Qual o link de bulbaswap?"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtkf4vtd_a3_3",
+      "message_id": "msg_ses_mobile_mtkf4vtd_a3_3",
+      "session_id": "ses_mobile_mtkf4vtd_a3",
+      "time_created": 1788373220919,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**Link oficial BulbaSwap**\n\nSite: https://bulbaswap.io\nApp direto: https://app.bulbaswap.io\n\nÉ a DEX nativa da rede Morph L2. Confirme sempre pelo ecossistema oficial em morphl2.io para evitar phishing.\n\nQuer que eu te mande o link do bridge oficial também para levar USDC pra Morph?\n\n🐙 [Status: Validado]"
+      }
     }
   ],
-  "exported_at": "2026-09-02T18:17:36.227Z",
+  "exported_at": "2026-09-02T18:20:20.916Z",
   "counts": {
-    "messages": 2,
-    "parts": 2
+    "messages": 4,
+    "parts": 4
   }
 }
