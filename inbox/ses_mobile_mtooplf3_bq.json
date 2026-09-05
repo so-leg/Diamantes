@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mtooplf3_bq",
+    "title": "Myaccounticsdo Google",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1788631001002
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mtooplf3_bq_0",
+      "time_created": 1788631001002,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Myaccounticsdo Google"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mtooplf3_bq_1",
+      "time_created": 1788631001003,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\n**My Account Google - Acesso Oficial**\n\nLink direto e seguro:\nhttps://myaccount.google.com\n\nÉ a central oficial para gerenciar sua Conta Google. Faça login com seu Gmail e senha.\n\n**O que você resolve lá:**\n\n• Dados pessoais e personalização\n• Segurança, senhas e verificação em 2 etapas\n• Privacidade e histórico de atividades\n• Pagamentos, assinaturas e armazenamento\n• Dispositivos conectados à sua conta\n\nMe diga o que precisa fazer: recuperar senha, ver dispositivos logados ou alterar dados? Te guio em 2 toques.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mtooplf3_bq_0",
+      "message_id": "msg_ses_mobile_mtooplf3_bq_0",
+      "session_id": "ses_mobile_mtooplf3_bq",
+      "time_created": 1788631001002,
+      "data": {
+        "type": "text",
+        "text": "Myaccounticsdo Google"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mtooplf3_bq_1",
+      "message_id": "msg_ses_mobile_mtooplf3_bq_1",
+      "session_id": "ses_mobile_mtooplf3_bq",
+      "time_created": 1788631001003,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\n**My Account Google - Acesso Oficial**\n\nLink direto e seguro:\nhttps://myaccount.google.com\n\nÉ a central oficial para gerenciar sua Conta Google. Faça login com seu Gmail e senha.\n\n**O que você resolve lá:**\n\n• Dados pessoais e personalização\n• Segurança, senhas e verificação em 2 etapas\n• Privacidade e histórico de atividades\n• Pagamentos, assinaturas e armazenamento\n• Dispositivos conectados à sua conta\n\nMe diga o que precisa fazer: recuperar senha, ver dispositivos logados ou alterar dados? Te guio em 2 toques.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-09-05T17:56:41.003Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
