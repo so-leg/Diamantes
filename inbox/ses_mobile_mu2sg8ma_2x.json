@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "ses_mobile_mu2sg8ma_2x",
+    "title": "Comparar 3090 24gb com a rx 7900 xtx e 9",
+    "directory": "/var/home/willian/Documentos/pesquisa-diamante-mobile",
+    "time_created": 1789483815676
+  },
+  "messages": [
+    {
+      "id": "msg_ses_mobile_mu2sg8ma_2x_0",
+      "time_created": 1789483815676,
+      "data": {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Comparar 3090 24gb com a rx 7900 xtx e 9070xt 16gb"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_ses_mobile_mu2sg8ma_2x_1",
+      "time_created": 1789483815677,
+      "data": {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 [Mente Ativa: Perito]\n\nComparativo direto para decisão rápida:\n\n**RTX 3090 24GB - A rainha da produtividade**\nAmpere, ainda muito relevante. Perde em jogo puro para as duas AMD, mas vence com folga em criação, IA, 3D e edição por causa dos 24GB GDDR6X + CUDA + NVENC + DLSS. Consome muito, 350W, e esquenta. Hoje só vale se for usada com bom preço ou para trabalho.\n\n**RX 7900 XTX 24GB - Força bruta em raster**\nRDNA 3 topo da geração passada. É a mais forte em rasterização pura 4K, cerca de 15% acima da 3090 e 5-8% acima da 9070 XT. Tem 24GB também. Ponto fraco é Ray Tracing fraco e FSR 3 inferior ao DLSS/FSR 4. Consome 355W.\n\n**RX 9070 XT 16GB - A mais equilibrada hoje**\nRDNA 4 nova. Raster fica entre 7900 XT e 7900 XTX, mas em Ray Tracing humilha as duas outras, chegando perto de RTX 4080. Traz FSR 4 com IA, muito melhor que FSR 3. Mais fria e eficiente, 304W. Ponto fraco são os 16GB vs 24GB das outras.\n\nComparativo prático em 4K:\n\n• Rasterização: 7900 XTX > 9070 XT > 3090\n• Ray Tracing: 9070 XT > 7900 XTX > 3090\n• VRAM futuro: 3090 e 7900 XTX (24GB) > 9070 XT (16GB)\n• Eficiência e tecnologia: 9070 XT > 7900 XTX > 3090\n• Criação/IA: 3090 > 9070 XT > 7900 XTX\n\n**Veredito por uso**\n\nPara jogar 4K hoje com melhor custo e tecnologia nova, vá de 9070 XT. É mais moderna, eficiente e com RT e FSR 4 superiores.\n\nPara jogar 4K no máximo de FPS bruto e quer 24GB, 7900 XTX ainda é o topo em raster.\n\nPara trabalhar com IA, Stable Diffusion, LLM local, Blender, Premiere e DaVinci, a 3090 24GB continua imbatível pelo ecossistema Nvidia, mesmo sendo mais antiga.\n\nQuer minha recomendação final? Se for só game, 9070 XT nova. Se for trabalho + game, 3090 usada por até R$ 4.500 ou 7900 XTX se achar por preço similar à 9070 XT.\n\n🐙 [Status: Validado]"
+          }
+        ]
+      }
+    }
+  ],
+  "parts": [
+    {
+      "id": "part_ses_mobile_mu2sg8ma_2x_0",
+      "message_id": "msg_ses_mobile_mu2sg8ma_2x_0",
+      "session_id": "ses_mobile_mu2sg8ma_2x",
+      "time_created": 1789483815676,
+      "data": {
+        "type": "text",
+        "text": "Comparar 3090 24gb com a rx 7900 xtx e 9070xt 16gb"
+      }
+    },
+    {
+      "id": "part_ses_mobile_mu2sg8ma_2x_1",
+      "message_id": "msg_ses_mobile_mu2sg8ma_2x_1",
+      "session_id": "ses_mobile_mu2sg8ma_2x",
+      "time_created": 1789483815677,
+      "data": {
+        "type": "text",
+        "text": "🧠 [Mente Ativa: Perito]\n\nComparativo direto para decisão rápida:\n\n**RTX 3090 24GB - A rainha da produtividade**\nAmpere, ainda muito relevante. Perde em jogo puro para as duas AMD, mas vence com folga em criação, IA, 3D e edição por causa dos 24GB GDDR6X + CUDA + NVENC + DLSS. Consome muito, 350W, e esquenta. Hoje só vale se for usada com bom preço ou para trabalho.\n\n**RX 7900 XTX 24GB - Força bruta em raster**\nRDNA 3 topo da geração passada. É a mais forte em rasterização pura 4K, cerca de 15% acima da 3090 e 5-8% acima da 9070 XT. Tem 24GB também. Ponto fraco é Ray Tracing fraco e FSR 3 inferior ao DLSS/FSR 4. Consome 355W.\n\n**RX 9070 XT 16GB - A mais equilibrada hoje**\nRDNA 4 nova. Raster fica entre 7900 XT e 7900 XTX, mas em Ray Tracing humilha as duas outras, chegando perto de RTX 4080. Traz FSR 4 com IA, muito melhor que FSR 3. Mais fria e eficiente, 304W. Ponto fraco são os 16GB vs 24GB das outras.\n\nComparativo prático em 4K:\n\n• Rasterização: 7900 XTX > 9070 XT > 3090\n• Ray Tracing: 9070 XT > 7900 XTX > 3090\n• VRAM futuro: 3090 e 7900 XTX (24GB) > 9070 XT (16GB)\n• Eficiência e tecnologia: 9070 XT > 7900 XTX > 3090\n• Criação/IA: 3090 > 9070 XT > 7900 XTX\n\n**Veredito por uso**\n\nPara jogar 4K hoje com melhor custo e tecnologia nova, vá de 9070 XT. É mais moderna, eficiente e com RT e FSR 4 superiores.\n\nPara jogar 4K no máximo de FPS bruto e quer 24GB, 7900 XTX ainda é o topo em raster.\n\nPara trabalhar com IA, Stable Diffusion, LLM local, Blender, Premiere e DaVinci, a 3090 24GB continua imbatível pelo ecossistema Nvidia, mesmo sendo mais antiga.\n\nQuer minha recomendação final? Se for só game, 9070 XT nova. Se for trabalho + game, 3090 usada por até R$ 4.500 ou 7900 XTX se achar por preço similar à 9070 XT.\n\n🐙 [Status: Validado]"
+      }
+    }
+  ],
+  "exported_at": "2026-09-15T14:50:15.677Z",
+  "counts": {
+    "messages": 2,
+    "parts": 2
+  }
+}
